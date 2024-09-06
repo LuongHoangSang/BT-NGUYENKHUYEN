@@ -2,12 +2,10 @@
 % ============================================================ EX-TEST
 \usepackage[utf8]{vietnam}
 \usepackage{ex_test}
-% \usepackage[solcolor]{ex_test} % dethi, color, loigiai, solcolor, book
- \usepackage{tkz-euclide}
+%\usepackage[solcolor]{ex_test} % dethi, color, loigiai, solcolor, book
 \renewtheorem{ex}{\color{blue!90!black} Câu}
 \usepackage{amsmath,amssymb,tikz,mathrsfs,tkz-tab}
 \usepackage{fontawesome}
-\usepackage{longtable}
 \usepackage[many]{tcolorbox}
 \usetikzlibrary{calc}
 \usepackage{geometry}
@@ -18,27 +16,29 @@
 \usepackage{currfile}
 \usepackage[version=3]{mhchem} % công thức và phương trình hóa học 
 \usepackage{tikz} % gói TikZ vẽ hình 
-	\usetikzlibrary{decorations.shapes,shapes.geometric,calc,positioning}
+\usetikzlibrary{decorations.shapes,shapes.geometric,calc,positioning}
 \usepackage{pgf} % hỗ trợ phép tính toán học và vẽ hình	
 \usetikzlibrary{shapes.geometric, arrows}
 \usepackage{pgfplots}
-\usepackage{pgfornament}
-\usepgfplotslibrary{fillbetween}
-\pgfplotsset{compat=1.13}
 \renewcommand{\baselinestretch}{1.2}
+\usepackage{tabularx}
+\usepackage{makecell}
+\usepackage{titlesec}
+\usepackage{titletoc}
+\usepackage{colortbl}
+\usepackage{capt-of}
 % lệnh siunit 
 \newcommand{\xsi}[2]{\SI[parse-numbers=false]{#1}{#2}}
 \newcommand{\outfooter}{
-\color{purple}\bfseries	Học kì hè 2024
+	\color{purple}\bfseries	GV: Lương Hoàng Sang
 }
 \newcommand{\outheader}{
-	\color{purple}\bfseries	VẬT LÝ 10
+	\color{purple}\bfseries	Trường THCS - THPT Nguyễn Khuyến
 }
 \newcommand{\namhoc}{
 	\color{purple}\bfseries	Năm học: 2024 - 2025
 }
-\def\SDTi{09.0354.0608}
-\def\SDTii{09.6175.0612}
+\def\monhoc{\bfseries Vật lí 10}%{\bfseries Kế hoạch bài dạy vật lí 10}
 \graphicspath{{figs/}{extra/}} % các thư mục chứa hình ảnh 
 
 % ========== PAPER FORMAT ====================
@@ -51,14 +51,14 @@
 	,footskip=1.0cm % khoảng cách từ văn bản đến footer
 }
 % --- line spacing -- choose 1 in 2 choices 
-%\onehalfspacing			% cách dòng đơn
+\onehalfspacing			% cách dòng đơn
 %\doublespacing			% cách dòng đôi  
-	% ----- định dạng Header và footer
-		% --- 
-	\newlength\sectitleindent
-	\setlength\sectitleindent{0.5cm}
-	\newlength\subsectitleindent
-	\setlength\subsectitleindent{1cm}
+% ----- định dạng Header và footer
+% --- 
+\newlength\sectitleindent
+\setlength\sectitleindent{0.5cm}
+\newlength\subsectitleindent
+\setlength\subsectitleindent{1cm}
 % --- trang văn bản thông thường  
 \pagestyle{fancy} 
 \fancyhf{}
@@ -79,7 +79,7 @@
 }
 \fancyhead[LO,RE] % footer - lề trong 
 {	
-\small \outheader \hfill \namhoc% tên tài liệu lấy từ phần khai báo đầu file 
+	\small \outheader \hfill \namhoc% tên tài liệu lấy từ phần khai báo đầu file 
 }  
 \fancyfoot[LO,RE] % footer - lề trong 
 {	
@@ -89,41 +89,41 @@
 {
 	\small \cirpage{\thepage}
 } 
-%\fancyfoot[LE] % footer - lề ngoài 
-%{
-%	\hspace{-\sectitleindent}
-%	\vspace*{-11pt}
-%	{\color{purple}\faPhoneSquare\, \SDTi \,\,--\,\, \faPhoneSquare\ \SDTii}
-%}
-%\fancyfoot[RO] % footer - lề ngoài 
-%{
-%	\hspace{-\sectitleindent}
-%	\vspace*{-11pt}
-%	{\color{purple}\faPhoneSquare\, \SDTi \,\,--\,\, \faPhoneSquare\ \SDTii}\hspace*{-5pt}
-%}
+\fancyfoot[LE] % footer - lề ngoài 
+{
+	\hspace{-\sectitleindent}
+	\vspace*{-11pt}
+	{\color{purple} \monhoc}
+}
+\fancyfoot[RO] % footer - lề ngoài 
+{
+	\hspace{-\sectitleindent}
+	\vspace*{-11pt}
+	{\color{purple} \monhoc}\hspace*{-5pt}
+}
 % --- trang Part và Chapter title 
 \fancypagestyle{plain} % mặc định của trang Part và Chapter title 
 {
-%	\fancyfoot[LO,RE]
-%	{
-%		\hspace{-\sectitleindent}\small \outfooter
-%	}
-%	\fancyfoot[CO,CE]
-%	{
-%		\small \cirpage{\thepage}
-%	} % footer - giữa trang chẵn và lẻ 
-%	\fancyfoot[LE]
-%	{
-%		\hspace{-\sectitleindent}
-%		\vspace*{-11pt}
-%		\hspace*{-1.1pt}{\color{purple}\faPhoneSquare\, \SDTi \,\,--\,\, \faPhoneSquare\ \SDTii}
-%	}
-%	\fancyfoot[RO]
-%	{
-%		\hspace{-\sectitleindent}
-%		\vspace*{-11pt}
-%		{\color{purple}\faPhoneSquare\, \SDTi \,\,--\,\, \faPhoneSquare\ \SDTii}\hspace*{-5pt}
-%	}
+	\fancyfoot[LO,RE]
+	{
+		\hspace{-\sectitleindent}\small \outfooter
+	}
+	\fancyfoot[CO,CE]
+	{
+		\small \cirpage{\thepage}
+	} % footer - giữa trang chẵn và lẻ 
+	\fancyfoot[LE]
+	{
+		\hspace{-\sectitleindent}
+		\vspace*{-11pt}
+		\hspace*{-1.1pt}{\color{purple}\monhoc}
+	}
+	\fancyfoot[RO]
+	{
+		\hspace{-\sectitleindent}
+		\vspace*{-11pt}
+		{\color{purple}\monhoc}\hspace*{-5pt}
+	}
 } % giống với trang thường 
 % ký hiệu từ font Boondox 
 \DeclareFontFamily{U}{BOONDOX-cal}{\skewchar\font=45 }
@@ -136,13 +136,25 @@
 \DeclareMathAlphabet{\bbdx}{U}{BOONDOX-cal}{b}{n}
 \newcommand{\calE}{\bdx{E}}
 \newcommand{\calP}{\bdx{P}}
+\newcolumntype{C}[1]{>{\centering\arraybackslash}p{#1}}
+\newcolumntype{M}[1]{>{\centering\arraybackslash}m{#1}}
+\newcolumntype{L}[1]{>{\raggedright\arraybackslash}p{#1}}
+\newcommand{\hoac}[1]{ %hệ hoặc
+	\left[\begin{aligned}#1\end{aligned}\right.}
+\newcommand{\heva}[1]{ %hệ và
+	\left\{\begin{aligned}#1\end{aligned}\right.}
 
 \begin{document}
 	\renewcommand{\thesection}{\Roman{section}}
 	\titleformat{\section}
 	{\normalfont\bfseries}{PHẦN~\thesection.}{0.4em}{}
 	\newcolumntype{C}[1]{>{\centering\arraybackslash}p{#1}}
+	\newcolumntype{M}[1]{>{\centering\arraybackslash}m{#1}}
 	\newcolumntype{L}[1]{>{\raggedright\arraybackslash}p{#1}}
+	\renewcommand{\theadfont}
+	{
+		\normalfont\bfseries
+	}
 %	\begin{tabular}{C{6cm}C{11cm}}
 %		\textbf{TRUNG TÂM MANABIE}& \textbf{ĐỀ KIỂM TRA ĐẦU CHƯƠNG LỚP 12} \\
 %		\textbf{ĐỀ PH12D02}& \textbf{Môn: VẬT LÝ}\\
@@ -150,16 +162,19 @@
 %		
 %		\noindent\rule{4cm}{0.8pt} \\
 %	\end{tabular}
-\newcommand{\hoac}[1]{ %hệ hoặc
-	\left[\begin{aligned}#1\end{aligned}\right.}
-\newcommand{\heva}[1]{ %hệ và
-	\left\{\begin{aligned}#1\end{aligned}\right.}
+%\newcommand{\hoac}[1]{ %hệ hoặc
+%	\left[\begin{aligned}#1\end{aligned}\right.}
+%\newcommand{\heva}[1]{ %hệ và
+%	\left\{\begin{aligned}#1\end{aligned}\right.}
 % ====================================================== input data BT1+2
 %\input{data/G12-C1}
 %\newpage\input{data/G12-C1-DA}
 % ====================================================== input data BT1+2
 %\input{data/G11-BT1+2}
 %\input{data/G12-BT1+2}
-\input{data/G10-TUAN4}
-%\newpage\input{data/G12-C1-DA}
+%\input{data/G10-TUAN4}
+%\input{data/G10-CDTBDD}
+%\input{data/G10-CHUONG1-DA}\newpage
+\input{data/G10-CHUONG1}
+
 \end{document}

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.2.8)  17 JUL 2024 13:03
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.2.8)  5 SEP 2024 18:47
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1104,174 +1104,7 @@ Package xtemplate Info: Declaring object type 'listsEX' taking 3 argument(s)
 \l__listsEX_choice_linewidth_dim=\dimen337
 \l__listsEX_choice_checkwidth_dim=\dimen338
 \l__listsEX_choice_raise_dim=\dimen339
-) (c:/texlive/2022/texmf-dist/tex/latex/tkz-euclide/tkz-euclide.sty
-2023/02/03 5.02c tkz-euclide.sty
-Package: tkz-euclide  2023/02/03 5.02c for pure Euclidean Geometry 
-
-(c:/texlive/2022/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzli
-braryangles.code.tex
-File: tikzlibraryangles.code.tex 2023-01-15 v3.1.10 (3.1.10)
-)
-(c:/texlive/2022/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzli
-braryarrows.code.tex
-File: tikzlibraryarrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
-
-(c:/texlive/2022/texmf-dist/tex/generic/pgf/libraries/pgflibraryarrows.code.tex
-File: pgflibraryarrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\arrowsize=\dimen340
-))
-(c:/texlive/2022/texmf-dist/tex/generic/pgf/libraries/pgflibraryarrows.meta.cod
-e.tex
-File: pgflibraryarrows.meta.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgfarrowinset=\dimen341
-\pgfarrowlength=\dimen342
-\pgfarrowwidth=\dimen343
-\pgfarrowlinewidth=\dimen344
-)
-(c:/texlive/2022/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzli
-brarycalc.code.tex
-File: tikzlibrarycalc.code.tex 2023-01-15 v3.1.10 (3.1.10)
-)
-(c:/texlive/2022/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzli
-brarydecorations.shapes.code.tex
-(c:/texlive/2022/texmf-dist/tex/generic/pgf/libraries/decorations/pgflibrarydec
-orations.shapes.code.tex))
-(c:/texlive/2022/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzli
-brarydecorations.text.code.tex
-(c:/texlive/2022/texmf-dist/tex/generic/pgf/libraries/decorations/pgflibrarydec
-orations.text.code.tex
-\pgf@lib@dec@text@box=\box143
-)
-\tikz@lib@dec@te@box=\box144
-)
-(c:/texlive/2022/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzli
-brarydecorations.pathmorphing.code.tex
-(c:/texlive/2022/texmf-dist/tex/generic/pgf/libraries/decorations/pgflibrarydec
-orations.pathmorphing.code.tex))
-(c:/texlive/2022/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzli
-braryintersections.code.tex
-(c:/texlive/2022/texmf-dist/tex/generic/pgf/libraries/pgflibraryintersections.c
-ode.tex
-(c:/texlive/2022/texmf-dist/tex/generic/pgf/libraries/pgflibraryfpu.code.tex)
-\pgf@intersect@solutions=\count385
-))
-(c:/texlive/2022/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzli
-brarymath.code.tex
-(c:/texlive/2022/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzli
-braryfpu.code.tex)
-\tikz@math@for@depth=\count386
-\tikz@math@dimen=\dimen345
-\tikz@math@toks=\toks69
-)
-(c:/texlive/2022/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzli
-brarypositioning.code.tex
-File: tikzlibrarypositioning.code.tex 2023-01-15 v3.1.10 (3.1.10)
-)
-(c:/texlive/2022/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzli
-braryquotes.code.tex
-File: tikzlibraryquotes.code.tex 2023-01-15 v3.1.10 (3.1.10)
-)
-(c:/texlive/2022/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzli
-braryshapes.misc.code.tex
-File: tikzlibraryshapes.misc.code.tex 2023-01-15 v3.1.10 (3.1.10)
-
-(c:/texlive/2022/texmf-dist/tex/generic/pgf/libraries/shapes/pgflibraryshapes.m
-isc.code.tex
-File: pgflibraryshapes.misc.code.tex 2023-01-15 v3.1.10 (3.1.10)
-))
-(c:/texlive/2022/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzli
-brarythrough.code.tex
-File: tikzlibrarythrough.code.tex 2023-01-15 v3.1.10 (3.1.10)
-)
-(c:/texlive/2022/texmf-dist/tex/latex/l3packages/xfp/xfp.sty
-Package: xfp 2023-02-02 L3 Floating point unit
-)
-(c:/texlive/2022/texmf-dist/tex/latex/xpatch/xpatch.sty
-Package: xpatch 2020/03/25 v0.3a Extending etoolbox patching commands
-)
-\tkzRadius=\dimen346
-\tkzLength=\dimen347
-\tkz@radi=\dimen348
-\tkz@ax=\dimen349
-\tkz@ay=\dimen350
-\tkz@bx=\dimen351
-\tkz@by=\dimen352
-\tkz@cx=\dimen353
-\tkz@cy=\dimen354
-\tkz@dx=\dimen355
-\tkz@dy=\dimen356
-\tkz@cntmk=\count387
-
-Local configuration file tkz-euclide.cfg found and used
-(c:/texlive/2022/texmf-dist/tex/latex/tkz-euclide/tkz-euclide.cfg
-2023/02/03 5.02c tkz-euclide.cfg
-) (c:/texlive/2022/texmf-dist/tex/latex/tkz-euclide/tkz-tools-eu-base.tex
-2023/02/03 5.02c tkz-tools-eu-base.tex
-) (c:/texlive/2022/texmf-dist/tex/latex/tkz-euclide/tkz-tools-eu-utilities.tex
-2023/02/03 5.02c tkz-tools-eu-utilities.tex
-) (c:/texlive/2022/texmf-dist/tex/latex/tkz-euclide/tkz-tools-eu-BB.tex
-2023/02/03 5.02c tkz-obj-eu-BB.tex
-) (c:/texlive/2022/texmf-dist/tex/latex/tkz-euclide/tkz-obj-eu-grids.tex
-2023/02/03 5.02c tkz-obj-eu-grids.tex
-) (c:/texlive/2022/texmf-dist/tex/latex/tkz-euclide/tkz-lib-eu-marks.tex
-2023/02/03 5.02c tkz-lib-eu-marks.tex
-) (c:/texlive/2022/texmf-dist/tex/latex/tkz-euclide/tkz-tools-eu-text.tex
-2023/02/03 5.02c tkz-tools-eu-text.tex
-) (c:/texlive/2022/texmf-dist/tex/latex/tkz-euclide/tkz-lib-eu-shape.tex
-2023/02/03 5.02c tkz-lib-eu-shape.tex
-) (c:/texlive/2022/texmf-dist/tex/latex/tkz-euclide/tkz-obj-eu-axesmin.tex
-2023/02/03 5.02c tkz-obj-eu-axesmin
-) (c:/texlive/2022/texmf-dist/tex/latex/tkz-euclide/tkz-tools-eu-colors.tex
-2023/02/03 5.02c tkz-tools-eu-colors
-) (c:/texlive/2022/texmf-dist/tex/latex/tkz-euclide/tkz-obj-eu-points.tex
-2023/02/03 5.02c tkz-obj-eu-points.tex
-) (c:/texlive/2022/texmf-dist/tex/latex/tkz-euclide/tkz-draw-eu-points.tex
-2023/01/24 5.01c tkz-draw-points.tex
-) (c:/texlive/2022/texmf-dist/tex/latex/tkz-euclide/tkz-obj-eu-points.tex
-2023/02/03 5.02c tkz-obj-eu-points.tex
-) (c:/texlive/2022/texmf-dist/tex/latex/tkz-euclide/tkz-obj-eu-points-by.tex
-2023/02/03 5.02c tkz-tools-eu-points-by.tex
-) (c:/texlive/2022/texmf-dist/tex/latex/tkz-euclide/tkz-tools-eu-math.tex
-2023/02/03 5.02c tkz-tools-eu-math.tex
-)
-(c:/texlive/2022/texmf-dist/tex/latex/tkz-euclide/tkz-tools-eu-intersections.te
-x
-2023/02/03 5.02c tkz-tools-eu-intersections.tex
-) (c:/texlive/2022/texmf-dist/tex/latex/tkz-euclide/tkz-obj-eu-points-with.tex
-2023/02/03 5.02c tkz-obj-eu-points-with.tex
-) (c:/texlive/2022/texmf-dist/tex/latex/tkz-euclide/tkz-obj-eu-points-spc.tex
-2023/02/03 5.02c tkz-obj-el-points.tex
-) (c:/texlive/2022/texmf-dist/tex/latex/tkz-euclide/tkz-tools-eu-angles.tex
-2023/02/03 5.02c tkz-tools-eu-angles.tex
-) (c:/texlive/2022/texmf-dist/tex/latex/tkz-euclide/tkz-obj-eu-points-rnd.tex
-2023/02/03 5.02c tkz-obj-eu-points-rnd.tex
-) (c:/texlive/2022/texmf-dist/tex/latex/tkz-euclide/tkz-obj-eu-circles.tex
-2023/02/03 5.02c tkz-obj-eu-circles.tex
-) (c:/texlive/2022/texmf-dist/tex/latex/tkz-euclide/tkz-obj-eu-circles-by.tex
-2023/02/03 5.02c tkz-obj-eu-circles.tex
-) (c:/texlive/2022/texmf-dist/tex/latex/tkz-euclide/tkz-obj-eu-lines.tex
-2023/02/03 5.02c tkz-obj-eu-lines.tex
-) (c:/texlive/2022/texmf-dist/tex/latex/tkz-euclide/tkz-obj-eu-polygons.tex
-2023/02/03 5.02c tkz-obj-eu-polygons.tex
-) (c:/texlive/2022/texmf-dist/tex/latex/tkz-euclide/tkz-obj-eu-triangles.tex
-2023/02/03 5.02c tkz-obj-eu-triangles.tex
-) (c:/texlive/2022/texmf-dist/tex/latex/tkz-euclide/tkz-draw-eu-lines.tex
-2023/02/03 5.02c tkz-obj-eu-draw-lines.tex
-) (c:/texlive/2022/texmf-dist/tex/latex/tkz-euclide/tkz-draw-eu-circles.tex
-2023/02/03 5.02c tkz-obj-eu-draw-circles.tex
-) (c:/texlive/2022/texmf-dist/tex/latex/tkz-euclide/tkz-draw-eu-polygons.tex
-2023/02/03 5.02c tkz-obj-eu-polygons.tex
-) (c:/texlive/2022/texmf-dist/tex/latex/tkz-euclide/tkz-draw-eu-angles.tex
-2023/02/03 5.02c tkz-tool-eu-angles.tex
-) (c:/texlive/2022/texmf-dist/tex/latex/tkz-euclide/tkz-draw-eu-sectors.tex
-2023/02/03 5.02c tkz-obj-eu-sectors.tex
-) (c:/texlive/2022/texmf-dist/tex/latex/tkz-euclide/tkz-draw-eu-compass.tex
-2023/02/03 5.02c tkz-obj-eu-compass.tex
-) (c:/texlive/2022/texmf-dist/tex/latex/tkz-euclide/tkz-draw-eu-show.tex
-2023/02/03 5.02c tkz-obj-eu-show.tex
-) (c:/texlive/2022/texmf-dist/tex/latex/tkz-euclide/tkz-draw-eu-protractor.tex
-2023/02/03 5.02c tkz-obj-eu-protractor.tex
-)) (c:/texlive/2022/texmf-dist/tex/latex/amsfonts/amssymb.sty
+) (c:/texlive/2022/texmf-dist/tex/latex/amsfonts/amssymb.sty
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
 
 (c:/texlive/2022/texmf-dist/tex/latex/amsfonts/amsfonts.sty
@@ -1284,22 +1117,30 @@ LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 ))
 (c:/texlive/2022/texmf-dist/tex/latex/tkz-tab/tkz-tab.sty
 Package: tkz-tab 2020/04/29 v2.12c variations (ctan version)
-\tkz@XF=\dimen357
-\tkz@YF=\dimen358
-\c@tkz@cnt@line=\count388
-\c@tkz@cnt@lg=\count389
-\c@tkz@cnt@cl=\count390
-\c@tkz@cnt@pred=\count391
-\c@tkz@cnt@temp=\count392
-\c@tkz@cnt@arrow=\count393
-\c@tkz@cnt@zone=\count394
-\c@tkz@cnt@lgnext=\count395
-\c@tkz@cnt@clnext=\count396
-\c@tkz@cnt@pair=\count397
-\c@tkz@cnt@impair=\count398
-\c@tkz@cnt@aw=\count399
-)
-(c:/texlive/2022/texmf-dist/tex/latex/fontawesome/fontawesome.sty
+
+(c:/texlive/2022/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzli
+braryarrows.code.tex
+File: tikzlibraryarrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
+
+(c:/texlive/2022/texmf-dist/tex/generic/pgf/libraries/pgflibraryarrows.code.tex
+File: pgflibraryarrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\arrowsize=\dimen340
+))
+\tkz@XF=\dimen341
+\tkz@YF=\dimen342
+\c@tkz@cnt@line=\count385
+\c@tkz@cnt@lg=\count386
+\c@tkz@cnt@cl=\count387
+\c@tkz@cnt@pred=\count388
+\c@tkz@cnt@temp=\count389
+\c@tkz@cnt@arrow=\count390
+\c@tkz@cnt@zone=\count391
+\c@tkz@cnt@lgnext=\count392
+\c@tkz@cnt@clnext=\count393
+\c@tkz@cnt@pair=\count394
+\c@tkz@cnt@impair=\count395
+\c@tkz@cnt@aw=\count396
+) (c:/texlive/2022/texmf-dist/tex/latex/fontawesome/fontawesome.sty
 Package: fontawesome 2016/05/15 v4.6.3.1 font awesome icons
 
 (c:/texlive/2022/texmf-dist/tex/generic/iftex/ifxetex.sty
@@ -1313,27 +1154,27 @@ x)
 (c:/texlive/2022/texmf-dist/tex/latex/fontawesome/fontawesomesymbols-pdftex.tex
 )) (c:/texlive/2022/texmf-dist/tex/latex/tcolorbox/tcolorbox.sty
 Package: tcolorbox 2022/06/24 version 5.1.1 text color boxes
-\tcb@titlebox=\box145
-\tcb@upperbox=\box146
-\tcb@lowerbox=\box147
-\tcb@phantombox=\box148
-\c@tcbbreakpart=\count400
-\c@tcblayer=\count401
-\c@tcolorbox@number=\count402
+\tcb@titlebox=\box143
+\tcb@upperbox=\box144
+\tcb@lowerbox=\box145
+\tcb@phantombox=\box146
+\c@tcbbreakpart=\count397
+\c@tcblayer=\count398
+\c@tcolorbox@number=\count399
+\tcb@temp=\box147
+\tcb@temp=\box148
 \tcb@temp=\box149
 \tcb@temp=\box150
-\tcb@temp=\box151
-\tcb@temp=\box152
 
 (c:/texlive/2022/texmf-dist/tex/latex/tcolorbox/tcbraster.code.tex
 Library (tcolorbox): 'tcbraster.code.tex' version '5.1.1'
-\c@tcbrastercolumn=\count403
-\c@tcbrasterrow=\count404
-\c@tcbrasternum=\count405
-\c@tcbraster=\count406
+\c@tcbrastercolumn=\count400
+\c@tcbrasterrow=\count401
+\c@tcbrasternum=\count402
+\c@tcbraster=\count403
 ) (c:/texlive/2022/texmf-dist/tex/latex/tcolorbox/tcbskins.code.tex
 Library (tcolorbox): 'tcbskins.code.tex' version '5.1.1'
-\tcb@waterbox=\box153
+\tcb@waterbox=\box151
 (c:/texlive/2022/texmf-dist/tex/latex/tcolorbox/tcbskinsjigsaw.code.tex
 Library (tcolorbox): 'tcbskinsjigsaw.code.tex' version '5.1.1'
 )) (c:/texlive/2022/texmf-dist/tex/latex/tcolorbox/tcbbreakable.code.tex
@@ -1342,9 +1183,9 @@ Library (tcolorbox): 'tcbbreakable.code.tex' version '5.1.1'
 Package: pdfcol 2022-09-21 v1.7 Handle new color stacks for pdfTeX (HO)
 )
 Package pdfcol Info: New color stack `tcb@breakable' = 1 on input line 23.
-\tcb@testbox=\box154
-\tcb@totalupperbox=\box155
-\tcb@totallowerbox=\box156
+\tcb@testbox=\box152
+\tcb@totalupperbox=\box153
+\tcb@totallowerbox=\box154
 )
 (c:/texlive/2022/texmf-dist/tex/latex/tcolorbox/tcbhooks.code.tex
 Library (tcolorbox): 'tcbhooks.code.tex' version '5.1.1'
@@ -1352,77 +1193,80 @@ Library (tcolorbox): 'tcbhooks.code.tex' version '5.1.1'
 Library (tcolorbox): 'tcbtheorems.code.tex' version '5.1.1'
 ) (c:/texlive/2022/texmf-dist/tex/latex/tcolorbox/tcbfitting.code.tex
 Library (tcolorbox): 'tcbfitting.code.tex' version '5.1.1'
-\tcbfitdim=\dimen359
-\tcb@lowerfitdim=\dimen360
-\tcb@upperfitdim=\dimen361
-\tcb@cur@hbadness=\count407
-)) (c:/texlive/2022/texmf-dist/tex/latex/geometry/geometry.sty
+\tcbfitdim=\dimen343
+\tcb@lowerfitdim=\dimen344
+\tcb@upperfitdim=\dimen345
+\tcb@cur@hbadness=\count404
+))
+(c:/texlive/2022/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzli
+brarycalc.code.tex
+File: tikzlibrarycalc.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (c:/texlive/2022/texmf-dist/tex/latex/geometry/geometry.sty
 Package: geometry 2020/01/02 v5.9 Page Geometry
-
 (c:/texlive/2022/texmf-dist/tex/generic/iftex/ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 )
-\Gm@cnth=\count408
-\Gm@cntv=\count409
-\c@Gm@tempcnt=\count410
-\Gm@bindingoffset=\dimen362
-\Gm@wd@mp=\dimen363
-\Gm@odd@mp=\dimen364
-\Gm@even@mp=\dimen365
-\Gm@layoutwidth=\dimen366
-\Gm@layoutheight=\dimen367
-\Gm@layouthoffset=\dimen368
-\Gm@layoutvoffset=\dimen369
-\Gm@dimlist=\toks70
+\Gm@cnth=\count405
+\Gm@cntv=\count406
+\c@Gm@tempcnt=\count407
+\Gm@bindingoffset=\dimen346
+\Gm@wd@mp=\dimen347
+\Gm@odd@mp=\dimen348
+\Gm@even@mp=\dimen349
+\Gm@layoutwidth=\dimen350
+\Gm@layoutheight=\dimen351
+\Gm@layouthoffset=\dimen352
+\Gm@layoutvoffset=\dimen353
+\Gm@dimlist=\toks69
 )
 (c:/texlive/2022/texmf-dist/tex/latex/siunitx/siunitx.sty
 Package: siunitx 2023-01-03 v3.2.0 A comprehensive (SI) units package
-\l__siunitx_angle_tmp_dim=\dimen370
-\l__siunitx_angle_marker_box=\box157
-\l__siunitx_angle_unit_box=\box158
-\l__siunitx_compound_count_int=\count411
+\l__siunitx_angle_tmp_dim=\dimen354
+\l__siunitx_angle_marker_box=\box155
+\l__siunitx_angle_unit_box=\box156
+\l__siunitx_compound_count_int=\count408
 
 (c:/texlive/2022/texmf-dist/tex/latex/translations/translations.sty
 Package: translations 2022/02/05 v1.12 internationalization of LaTeX2e packages
  (CN)
 )
-\l__siunitx_number_exponent_fixed_int=\count412
-\l__siunitx_number_min_decimal_int=\count413
-\l__siunitx_number_min_integer_int=\count414
-\l__siunitx_number_round_precision_int=\count415
-\l__siunitx_number_lower_threshold_int=\count416
-\l__siunitx_number_upper_threshold_int=\count417
-\l__siunitx_number_group_first_int=\count418
-\l__siunitx_number_group_size_int=\count419
-\l__siunitx_number_group_minimum_int=\count420
-\l__siunitx_table_tmp_box=\box159
-\l__siunitx_table_tmp_dim=\dimen371
-\l__siunitx_table_column_width_dim=\dimen372
-\l__siunitx_table_integer_box=\box160
-\l__siunitx_table_decimal_box=\box161
-\l__siunitx_table_uncert_box=\box162
-\l__siunitx_table_before_box=\box163
-\l__siunitx_table_after_box=\box164
-\l__siunitx_table_before_dim=\dimen373
-\l__siunitx_table_carry_dim=\dimen374
-\l__siunitx_unit_tmp_int=\count421
-\l__siunitx_unit_position_int=\count422
-\l__siunitx_unit_total_int=\count423
+\l__siunitx_number_exponent_fixed_int=\count409
+\l__siunitx_number_min_decimal_int=\count410
+\l__siunitx_number_min_integer_int=\count411
+\l__siunitx_number_round_precision_int=\count412
+\l__siunitx_number_lower_threshold_int=\count413
+\l__siunitx_number_upper_threshold_int=\count414
+\l__siunitx_number_group_first_int=\count415
+\l__siunitx_number_group_size_int=\count416
+\l__siunitx_number_group_minimum_int=\count417
+\l__siunitx_table_tmp_box=\box157
+\l__siunitx_table_tmp_dim=\dimen355
+\l__siunitx_table_column_width_dim=\dimen356
+\l__siunitx_table_integer_box=\box158
+\l__siunitx_table_decimal_box=\box159
+\l__siunitx_table_uncert_box=\box160
+\l__siunitx_table_before_box=\box161
+\l__siunitx_table_after_box=\box162
+\l__siunitx_table_before_dim=\dimen357
+\l__siunitx_table_carry_dim=\dimen358
+\l__siunitx_unit_tmp_int=\count418
+\l__siunitx_unit_position_int=\count419
+\l__siunitx_unit_total_int=\count420
 )
 (c:/texlive/2022/texmf-dist/tex/latex/setspace/setspace.sty
 Package: setspace 2022/12/04 v6.7b set line spacing
 )
 (c:/texlive/2022/texmf-dist/tex/latex/titlesec/titlesec.sty
 Package: titlesec 2021/07/05 v2.14 Sectioning titles
-\ttl@box=\box165
+\ttl@box=\box163
 \beforetitleunit=\skip124
 \aftertitleunit=\skip125
-\ttl@plus=\dimen375
-\ttl@minus=\dimen376
-\ttl@toksa=\toks71
-\titlewidth=\dimen377
-\titlewidthlast=\dimen378
-\titlewidthfirst=\dimen379
+\ttl@plus=\dimen359
+\ttl@minus=\dimen360
+\ttl@toksa=\toks70
+\titlewidth=\dimen361
+\titlewidthlast=\dimen362
+\titlewidthfirst=\dimen363
 )
 (c:/texlive/2022/texmf-dist/tex/latex/currfile/currfile.sty
 Package: currfile 2022/10/10 v0.8 Provides the file path elements of the curren
@@ -1440,7 +1284,7 @@ Package: filehook 2022/10/25 v0.8b Hooks for input files
 (c:/texlive/2022/texmf-dist/tex/latex/filehook/filehook-2020.sty
 Package: filehook-2020 2022/10/25 v0.8b Hooks for input files
 ))
-\c@currfiledepth=\count424
+\c@currfiledepth=\count421
 )
 (c:/texlive/2022/texmf-dist/tex/latex/mhchem/mhchem.sty
 Package: mhchem 2021/12/31 v4.09 for typesetting chemical formulae
@@ -1451,10 +1295,10 @@ Package: l3keys2e 2023-02-02 LaTeX2e option processing using LaTeX3 keys
 (c:/texlive/2022/texmf-dist/tex/latex/chemgreek/chemgreek.sty
 Package: chemgreek 2020/01/16 v1.1a interface for upright Greek letters for use
  in chemistry (CN)
-\l__chemgreek_tmpa_int=\count425
-\g__chemgreek_tmpa_int=\count426
+\l__chemgreek_tmpa_int=\count422
+\g__chemgreek_tmpa_int=\count423
 )
-\l__mhchem_ce_distanceFromLastComma_int=\count427
+\l__mhchem_ce_distanceFromLastComma_int=\count424
 \__mhchem_arrow_extPgfLength_skip=\skip126
 \mhchem@minispace@tmp=\skip127
 \mhchem@minibackspace@tmp=\skip128
@@ -1465,12 +1309,16 @@ Package: chemgreek 2020/01/16 v1.1a interface for upright Greek letters for use
 \mhchem@smallbondwidth=\skip133
 \mhchem@bondtmp@minussidebearingleft=\skip134
 \mhchem@bondtmp@minussidebearingright=\skip135
-\l__mhchem_option_version_int=\count428
-\mhchem@option@minusmathsidebearingleft=\dimen380
-\mhchem@option@minusmathsidebearingright=\dimen381
-\mhchem@option@minustextsidebearingleft=\dimen382
-\mhchem@option@minustextsidebearingright=\dimen383
+\l__mhchem_option_version_int=\count425
+\mhchem@option@minusmathsidebearingleft=\dimen364
+\mhchem@option@minusmathsidebearingright=\dimen365
+\mhchem@option@minustextsidebearingleft=\dimen366
+\mhchem@option@minustextsidebearingright=\dimen367
 )
+(c:/texlive/2022/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzli
+brarydecorations.shapes.code.tex
+(c:/texlive/2022/texmf-dist/tex/generic/pgf/libraries/decorations/pgflibrarydec
+orations.shapes.code.tex))
 (c:/texlive/2022/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzli
 braryshapes.geometric.code.tex
 File: tikzlibraryshapes.geometric.code.tex 2023-01-15 v3.1.10 (3.1.10)
@@ -1478,18 +1326,23 @@ File: tikzlibraryshapes.geometric.code.tex 2023-01-15 v3.1.10 (3.1.10)
 (c:/texlive/2022/texmf-dist/tex/generic/pgf/libraries/shapes/pgflibraryshapes.g
 eometric.code.tex
 File: pgflibraryshapes.geometric.code.tex 2023-01-15 v3.1.10 (3.1.10)
-)) (c:/texlive/2022/texmf-dist/tex/latex/pgfplots/pgfplots.sty (c:/texlive/2022
-/texmf-dist/tex/generic/pgfplots/pgfplots.revision.tex)
+))
+(c:/texlive/2022/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzli
+brarypositioning.code.tex
+File: tikzlibrarypositioning.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(c:/texlive/2022/texmf-dist/tex/latex/pgfplots/pgfplots.sty
+(c:/texlive/2022/texmf-dist/tex/generic/pgfplots/pgfplots.revision.tex)
 Package: pgfplots 2021/05/15 v1.18.1 Data Visualization (1.18.1)
 
 (c:/texlive/2022/texmf-dist/tex/generic/pgfplots/pgfplots.code.tex
 (c:/texlive/2022/texmf-dist/tex/generic/pgfplots/pgfplotscore.code.tex
-\t@pgfplots@toka=\toks72
-\t@pgfplots@tokb=\toks73
-\t@pgfplots@tokc=\toks74
-\pgfplots@tmpa=\dimen384
-\c@pgfplots@coordindex=\count429
-\c@pgfplots@scanlineindex=\count430
+\t@pgfplots@toka=\toks71
+\t@pgfplots@tokb=\toks72
+\t@pgfplots@tokc=\toks73
+\pgfplots@tmpa=\dimen368
+\c@pgfplots@coordindex=\count426
+\c@pgfplots@scanlineindex=\count427
 
 (c:/texlive/2022/texmf-dist/tex/generic/pgfplots/sys/pgfplotssysgeneric.code.te
 x))
@@ -1497,10 +1350,11 @@ x))
 
 (c:/texlive/2022/texmf-dist/tex/generic/pgfplots/oldpgfcompatib/pgfplotsoldpgfs
 upp_loader.code.tex
+(c:/texlive/2022/texmf-dist/tex/generic/pgf/libraries/pgflibraryfpu.code.tex)
 Package pgfplots: loading complementary utilities for your pgf version...
-\t@pgf@toka=\toks75
-\t@pgf@tokb=\toks76
-\t@pgf@tokc=\toks77
+\t@pgf@toka=\toks74
+\t@pgf@tokb=\toks75
+\t@pgf@tokc=\toks76
 
 (c:/texlive/2022/texmf-dist/tex/generic/pgfplots/oldpgfcompatib/pgfplotsoldpgfs
 upp_pgfutil-common-lists.tex))
@@ -1511,14 +1365,14 @@ cture.code.tex)
 ctureext.code.tex)
 (c:/texlive/2022/texmf-dist/tex/generic/pgfplots/liststructure/pgfplotsarray.co
 de.tex
-\c@pgfplotsarray@tmp=\count431
+\c@pgfplotsarray@tmp=\count428
 )
 (c:/texlive/2022/texmf-dist/tex/generic/pgfplots/liststructure/pgfplotsmatrix.c
 ode.tex)
 (c:/texlive/2022/texmf-dist/tex/generic/pgfplots/numtable/pgfplotstableshared.c
 ode.tex
-\c@pgfplotstable@counta=\count432
-\t@pgfplotstable@a=\toks78
+\c@pgfplotstable@counta=\count429
+\t@pgfplotstable@a=\toks77
 )
 (c:/texlive/2022/texmf-dist/tex/generic/pgfplots/liststructure/pgfplotsdeque.co
 de.tex)
@@ -1529,7 +1383,7 @@ tex))
 x)
 (c:/texlive/2022/texmf-dist/tex/generic/pgfplots/libs/pgflibrarypgfplots.surfsh
 ading.code.tex
-\c@pgfplotslibrarysurf@no=\count433
+\c@pgfplotslibrarysurf@no=\count430
 
 (c:/texlive/2022/texmf-dist/tex/generic/pgfplots/sys/pgflibrarypgfplots.surfsha
 ding.pgfsys-pdftex.def)))
@@ -1548,72 +1402,88 @@ ex)
 (c:/texlive/2022/texmf-dist/tex/generic/pgfplots/pgfplots.markers.code.tex)
 (c:/texlive/2022/texmf-dist/tex/generic/pgfplots/pgfplotsticks.code.tex)
 (c:/texlive/2022/texmf-dist/tex/generic/pgfplots/pgfplots.paths.code.tex)
+(c:/texlive/2022/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzli
+brarydecorations.pathmorphing.code.tex
+(c:/texlive/2022/texmf-dist/tex/generic/pgf/libraries/decorations/pgflibrarydec
+orations.pathmorphing.code.tex))
 (c:/texlive/2022/texmf-dist/tex/generic/pgfplots/libs/tikzlibrarypgfplots.conto
 urlua.code.tex)
-\pgfplots@numplots=\count434
-\pgfplots@xmin@reg=\dimen385
-\pgfplots@xmax@reg=\dimen386
-\pgfplots@ymin@reg=\dimen387
-\pgfplots@ymax@reg=\dimen388
-\pgfplots@zmin@reg=\dimen389
-\pgfplots@zmax@reg=\dimen390
-))
-(c:/texlive/2022/texmf-dist/tex/latex/pgfornament/pgfornament.sty
-Package: pgfornament 2020/05/26 v1.2 vector ornaments
-
-(c:/texlive/2022/texmf-dist/tex/latex/pgfornament/pgflibraryvectorian.code.tex
-2020/04/06 1.1 pgflibraryvectorian.code.tex
-))
-(c:/texlive/2022/texmf-dist/tex/generic/pgfplots/libs/tikzlibrarypgfplots.fillb
-etween.code.tex
-(c:/texlive/2022/texmf-dist/tex/generic/pgfplots/pgfcontrib/tikzlibraryfillbetw
-een.code.tex
-(c:/texlive/2022/texmf-dist/tex/generic/pgfplots/pgfcontrib/tikzlibrarydecorati
-ons.softclip.code.tex
-(c:/texlive/2022/texmf-dist/tex/generic/pgfplots/pgfcontrib/pgflibraryfillbetwe
-en.code.tex)))
-(c:/texlive/2022/texmf-dist/tex/generic/pgfplots/libs/tikzlibrarypgfplots.decor
-ations.softclip.code.tex))
-\sectitleindent=\skip136
-\subsectitleindent=\skip137
+\pgfplots@numplots=\count431
+\pgfplots@xmin@reg=\dimen369
+\pgfplots@xmax@reg=\dimen370
+\pgfplots@ymin@reg=\dimen371
+\pgfplots@ymax@reg=\dimen372
+\pgfplots@zmin@reg=\dimen373
+\pgfplots@zmax@reg=\dimen374
+)) (c:/texlive/2022/texmf-dist/tex/latex/tools/tabularx.sty
+Package: tabularx 2020/01/15 v2.11c `tabularx' package (DPC)
+\TX@col@width=\dimen375
+\TX@old@table=\dimen376
+\TX@old@col=\dimen377
+\TX@target=\dimen378
+\TX@delta=\dimen379
+\TX@cols=\count432
+\TX@ftn=\toks78
+)
+(c:/texlive/2022/texmf-dist/tex/latex/makecell/makecell.sty
+Package: makecell 2009/08/03 V0.1e Managing of Tab Column Heads and Cells
+\rotheadsize=\dimen380
+\c@nlinenum=\count433
+\TeXr@lab=\toks79
+)
+(c:/texlive/2022/texmf-dist/tex/latex/titlesec/titletoc.sty
+Package: titletoc 2021/07/05 v2.14 TOC entries
+\ttl@leftsep=\dimen381
+)
+(c:/texlive/2022/texmf-dist/tex/latex/colortbl/colortbl.sty
+Package: colortbl 2022/06/20 v1.0f Color table columns (DPC)
+\everycr=\toks80
+\minrowclearance=\skip136
+\rownum=\count434
+)
+(c:/texlive/2022/texmf-dist/tex/latex/capt-of/capt-of.sty
+Package: capt-of 2009/12/29 v0.2 standard captions outside of floats
+)
+\sectitleindent=\skip137
+\subsectitleindent=\skip138
 LaTeX Font Info:    Overwriting math alphabet `\bdx' in version `bold'
 (Font)                  U/BOONDOX-cal/m/n --> U/BOONDOX-cal/b/n on input line 1
 35.
 Package translations Info: No language package found. I am going to use `englis
-h' as default language. on input line 140.
+h' as default language. on input line 147.
  (./TEST.aux)
 \openout1 = `TEST.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 140.
-LaTeX Font Info:    ... okay on input line 140.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 140.
-LaTeX Font Info:    ... okay on input line 140.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 140.
-LaTeX Font Info:    ... okay on input line 140.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 140.
-LaTeX Font Info:    ... okay on input line 140.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 140.
-LaTeX Font Info:    ... okay on input line 140.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 140.
-LaTeX Font Info:    ... okay on input line 140.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 140.
-LaTeX Font Info:    ... okay on input line 140.
-LaTeX Font Info:    Checking defaults for T5/cmr/m/n on input line 140.
-LaTeX Font Info:    ... okay on input line 140.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 147.
+LaTeX Font Info:    ... okay on input line 147.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 147.
+LaTeX Font Info:    ... okay on input line 147.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 147.
+LaTeX Font Info:    ... okay on input line 147.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 147.
+LaTeX Font Info:    ... okay on input line 147.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 147.
+LaTeX Font Info:    ... okay on input line 147.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 147.
+LaTeX Font Info:    ... okay on input line 147.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 147.
+LaTeX Font Info:    ... okay on input line 147.
+LaTeX Font Info:    Checking defaults for T5/cmr/m/n on input line 147.
+LaTeX Font Info:    ... okay on input line 147.
 
 (c:/texlive/2022/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count435
-\scratchdimen=\dimen391
-\scratchbox=\box166
+\scratchdimen=\dimen382
+\scratchbox=\box164
 \nofMPsegments=\count436
 \nofMParguments=\count437
-\everyMPshowfont=\toks79
+\everyMPshowfont=\toks81
 \MPscratchCnt=\count438
-\MPscratchDim=\dimen392
+\MPscratchDim=\dimen383
 \MPnumerator=\count439
 \makeMPintoPDFobject=\count440
-\everyMPtoPDFconversion=\toks80
+\everyMPtoPDFconversion=\toks82
 ) (c:/texlive/2022/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
@@ -1664,152 +1534,174 @@ File: translations-basic-dictionary-english.trsl (english translation file `tra
 nslations-basic-dictionary')
 )
 Package translations Info: loading dictionary `translations-basic-dictionary' f
-or `english'. on input line 140.
+or `english'. on input line 147.
 
-Package chemgreek Info: Activating mapping `default' on line 140.
+Package chemgreek Info: Activating mapping `default' on line 147.
 
 
-Package pgfplots notification 'compat/show suggested version=true': you might b
-enefit from \pgfplotsset{compat=1.18} (current compat level: 1.13).
 
-(./data/G10-TUAN4.tex
-Output from handle ans going to ans/G10TUAN4-TN.tex
+Package pgfplots Warning: running in backwards compatibility mode (unsuitable t
+ick labels; missing features). Consider writing \pgfplotsset{compat=1.18} into 
+your preamble.
+ on input line 147.
+
+
+Package array Warning: Column C is already defined on input line 151.
+
+
+Package array Warning: Column M is already defined on input line 152.
+
+
+Package array Warning: Column L is already defined on input line 153.
+
+(./data/G10-CHUONG1.tex
+Output from handle ans going to ans/G10C1TN.tex
 \ans@file=\write7
-\openout7 = `ans/G10TUAN4-TN.tex'.
+\openout7 = `ans/G10C1TN.tex'.
 
-LaTeX Font Info:    Trying to load font information for U+rsfs on input line 11
+LaTeX Font Info:    Trying to load font information for U+rsfs on input line 13
 .
 (c:/texlive/2022/texmf-dist/tex/latex/jknapltx/ursfs.fd
 File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
 )
-LaTeX Font Info:    Trying to load font information for U+msa on input line 11.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 13.
 
 
 (c:/texlive/2022/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 11.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 13.
 
 
 (c:/texlive/2022/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-<figs/VN10-2023-PH-TP005-P-1.png, id=4, 207.77625pt x 148.1535pt>
-File: figs/VN10-2023-PH-TP005-P-1.png Graphic file (type png)
-<use figs/VN10-2023-PH-TP005-P-1.png>
-Package pdftex.def Info: figs/VN10-2023-PH-TP005-P-1.png  used on input line 86
-.
-(pdftex.def)             Requested size: 128.0374pt x 91.30035pt.
-<figs/VN10-2022-PH-TP004-P-2.png, id=6, 268.6035pt x 81.30376pt>
-File: figs/VN10-2022-PH-TP004-P-2.png Graphic file (type png)
-<use figs/VN10-2022-PH-TP004-P-2.png>
-Package pdftex.def Info: figs/VN10-2022-PH-TP004-P-2.png  used on input line 10
-0.
-(pdftex.def)             Requested size: 204.8567pt x 62.00983pt.
+<figs/G10-CHUONG1-6.jpg, id=4, 1204.5pt x 677.53125pt>
+File: figs/G10-CHUONG1-6.jpg Graphic file (type jpg)
+<use figs/G10-CHUONG1-6.jpg>
+Package pdftex.def Info: figs/G10-CHUONG1-6.jpg  used on input line 66.
+(pdftex.def)             Requested size: 204.8567pt x 115.23047pt.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 15.12502pt, for example:
-(fancyhdr)                \setlength{\headheight}{15.12502pt}.
+(fancyhdr)                Make it at least 12.70894pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.70894pt}.
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 
-(fancyhdr)                \addtolength{\topmargin}{-3.12502pt}.
+(fancyhdr)                \addtolength{\topmargin}{-0.70894pt}.
 
 [1{c:/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
 
- <./figs/VN10-2023-PH-TP005-P-1.png>]
-<figs/VN10-2022-PH-TP004-P-3.png, id=18, 398.6895pt x 372.1905pt>
-File: figs/VN10-2022-PH-TP004-P-3.png Graphic file (type png)
-<use figs/VN10-2022-PH-TP004-P-3.png>
-Package pdftex.def Info: figs/VN10-2022-PH-TP004-P-3.png  used on input line 13
-4.
-(pdftex.def)             Requested size: 256.0748pt x 239.05298pt.
-File: figs/VN10-2022-PH-TP004-P-3.png Graphic file (type png)
-<use figs/VN10-2022-PH-TP004-P-3.png>
-Package pdftex.def Info: figs/VN10-2022-PH-TP004-P-3.png  used on input line 13
-4.
-(pdftex.def)             Requested size: 131.6865pt x 122.93114pt.
-<figs/VN10-2023-PH-TP005-P-4.png, id=19, 223.43475pt x 172.2435pt>
-File: figs/VN10-2023-PH-TP005-P-4.png Graphic file (type png)
-<use figs/VN10-2023-PH-TP005-P-4.png>
-Package pdftex.def Info: figs/VN10-2023-PH-TP005-P-4.png  used on input line 16
-4.
-(pdftex.def)             Requested size: 128.0374pt x 98.70808pt.
+ <./figs/G10-CHUONG1-6.jpg>]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.70894pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.70894pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-0.70894pt}.
+
+[2]
+<figs//../figs/G10-CHUONG1-1.jpg, id=20, 379.4175pt x 118.64325pt>
+File: figs//../figs/G10-CHUONG1-1.jpg Graphic file (type jpg)
+<use figs//../figs/G10-CHUONG1-1.jpg>
+Package pdftex.def Info: figs//../figs/G10-CHUONG1-1.jpg  used on input line 20
+7.
+(pdftex.def)             Requested size: 204.8567pt x 64.05914pt.
+
+Output from handle ans going to ans/G10C1TF.tex
+\openout7 = `ans/G10C1TF.tex'.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 15.12502pt, for example:
-(fancyhdr)                \setlength{\headheight}{15.12502pt}.
+(fancyhdr)                Make it at least 12.70894pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.70894pt}.
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 
-(fancyhdr)                \addtolength{\topmargin}{-3.12502pt}.
+(fancyhdr)                \addtolength{\topmargin}{-0.70894pt}.
 
-[2 <./figs/VN10-2022-PH-TP004-P-2.png> <./figs/VN10-2022-PH-TP004-P-3.png> <./f
-igs/VN10-2023-PH-TP005-P-4.png>]
-<figs/VN10-2022-PH-TP004-1-P-1.jpg, id=28, 375.20175pt x 65.043pt>
-File: figs/VN10-2022-PH-TP004-1-P-1.jpg Graphic file (type jpg)
-<use figs/VN10-2022-PH-TP004-1-P-1.jpg>
-Package pdftex.def Info: figs/VN10-2022-PH-TP004-1-P-1.jpg  used on input line 
-232.
-(pdftex.def)             Requested size: 256.0748pt x 44.3924pt.
+[3 <./figs//../figs/G10-CHUONG1-1.jpg>]
+<figs/G10-CHUONG1-2.jpg, id=26, 534.19576pt x 243.91125pt>
+File: figs/G10-CHUONG1-2.jpg Graphic file (type jpg)
+<use figs/G10-CHUONG1-2.jpg>
+Package pdftex.def Info: figs/G10-CHUONG1-2.jpg  used on input line 350.
+(pdftex.def)             Requested size: 307.29288pt x 140.30742pt.
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Output from handle ans going to ans/G10C1TL.tex
+\openout7 = `ans/G10C1TL.tex'.
 
+<figs/G10-CHUONG1-4.jpg, id=27, 903.375pt x 508.14844pt>
+File: figs/G10-CHUONG1-4.jpg Graphic file (type jpg)
+<use figs/G10-CHUONG1-4.jpg>
+Package pdftex.def Info: figs/G10-CHUONG1-4.jpg  used on input line 377.
+(pdftex.def)             Requested size: 149.3763pt x 84.0192pt.
+<figs/G10-CHUONG1-5.jpg, id=28, 930.47626pt x 542.025pt>
+File: figs/G10-CHUONG1-5.jpg Graphic file (type jpg)
+<use figs/G10-CHUONG1-5.jpg>
+Package pdftex.def Info: figs/G10-CHUONG1-5.jpg  used on input line 378.
+(pdftex.def)             Requested size: 149.3763pt x 87.01523pt.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.70894pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.70894pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-0.70894pt}.
+
+[4 <./figs/G10-CHUONG1-2.jpg> <./figs/G10-CHUONG1-4.jpg> <./figs/G10-CHUONG1-5.
+jpg>]
+<figs//../figs/G10-CHUONG1-3.jpg, id=34, 772.0845pt x 388.45125pt>
+File: figs//../figs/G10-CHUONG1-3.jpg Graphic file (type jpg)
+<use figs//../figs/G10-CHUONG1-3.jpg>
+Package pdftex.def Info: figs//../figs/G10-CHUONG1-3.jpg  used on input line 42
+1.
+(pdftex.def)             Requested size: 384.1122pt x 193.25899pt.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 15.12502pt, for example:
-(fancyhdr)                \setlength{\headheight}{15.12502pt}.
+(fancyhdr)                Make it at least 12.70894pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.70894pt}.
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 
-(fancyhdr)                \addtolength{\topmargin}{-3.12502pt}.
+(fancyhdr)                \addtolength{\topmargin}{-0.70894pt}.
 
-[3 <./figs/VN10-2022-PH-TP004-1-P-1.jpg>]
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 15.12502pt, for example:
-(fancyhdr)                \setlength{\headheight}{15.12502pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-3.12502pt}.
-
-[4]
-Missing character: There is no ; in font nullfont!
-Missing character: There is no ; in font nullfont!
-)
+[5 <./figs//../figs/G10-CHUONG1-3.jpg>])
 \tf@thm=\write8
 \openout8 = `TEST.thm'.
 
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 15.12502pt, for example:
-(fancyhdr)                \setlength{\headheight}{15.12502pt}.
+(fancyhdr)                Make it at least 12.70894pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.70894pt}.
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 
-(fancyhdr)                \addtolength{\topmargin}{-3.12502pt}.
+(fancyhdr)                \addtolength{\topmargin}{-0.70894pt}.
 
-[5] (./TEST.aux) ) 
+[6] (./TEST.aux) ) 
 Here is how much of TeX's memory you used:
- 46029 strings out of 476064
- 1148616 string characters out of 5794900
- 1978159 words of memory out of 5000000
- 65605 multiletter control sequences out of 15000+600000
- 521333 words of font info for 57 fonts, out of 8000000 for 9000
+ 42507 strings out of 476064
+ 1051427 string characters out of 5794900
+ 1882340 words of memory out of 5000000
+ 62225 multiletter control sequences out of 15000+600000
+ 523331 words of font info for 60 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 117i,16n,129p,1196b,2469s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cm
-mi10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb><
-c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive
-/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><c:/texlive/2022/texmf
--dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2022/texmf-dist/fon
-ts/type1/public/amsfonts/cm/cmsy8.pfb><c:/texlive/2022/texmf-dist/fonts/type1/v
-ntex/vnr/vnbx10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/vntex/vnr/vnr10.pfb
->
-Output written on TEST.pdf (5 pages, 235525 bytes).
+ 117i,17n,118p,736b,2371s stack positions out of 10000i,1000n,20000p,200000b,200000s
+{c:/texlive/2022/texmf-dist/fonts/enc/dvips/cm-super/cm-super
+-ts1.enc}<c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb>
+<c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb><c:/texliv
+e/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2022/tex
+mf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><c:/texlive/2022/texmf-dist/fon
+ts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/
+public/amsfonts/cm/cmsy8.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/cm-
+super/sfrm1095.pfb><c:/texlive/2022/texmf-dist/fonts/type1/vntex/vnr/vnbx10.pfb
+><c:/texlive/2022/texmf-dist/fonts/type1/vntex/vnr/vnbxti10.pfb><c:/texlive/202
+2/texmf-dist/fonts/type1/vntex/vnr/vnr10.pfb><c:/texlive/2022/texmf-dist/fonts/
+type1/vntex/vnr/vnti10.pfb>
+Output written on TEST.pdf (6 pages, 577509 bytes).
 PDF statistics:
- 73 PDF objects out of 1000 (max. 8388607)
- 40 compressed objects within 1 object stream
+ 88 PDF objects out of 1000 (max. 8388607)
+ 51 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 38 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 43 words of extra memory for PDF output out of 10000 (max. 10000000)
 
