@@ -352,17 +352,14 @@ $$v_\text{tb}=\dfrac{s}{t}=\dfrac{4+4+2+2}{5}=\SI{2.4}{\centi\meter/\second}.$$
 				ymax=55, 
 				samples=300,
 				axis lines=center, 
-%				grid style={step=1, line width =0.4pt, color=gray!30!white},
-%				grid=both,
-%				major grid style={line width=0.8pt,gray!60!white},
 				xlabel=$\xsi{t}{\left(\si{\hour}\right)}$, 		ylabel=$\xsi{x}{\left(\si{\kilo\meter}\right)}$,
 				every axis y label/.style={at=(current axis.above origin),anchor=south},  
 				every axis x label/.style={at=(current axis.right of origin),anchor=west},  ]
 				\addplot [ultra thick, blue, smooth, domain=0:2.5] {20*x} node[left] {(I)};	
 				\addplot [ultra thick, red, smooth, domain=-2:3] {30+5*x} node[below] {(II)};	
 				\addplot [thick, dashed, domain=-2:1] {20} ;	
-				\draw[thick, dashed] (axis cs:-2,0) --(-2,20);	 
-				\draw[thick, dashed] (axis cs:1,0) --(1,20);
+				\draw[thick, dashed] (axis cs:-2,0) --(axis cs:-2,20);	 
+				\draw[thick, dashed] (axis cs:1,0) --(axis cs: 1,20);
 			\end{axis}  
 			\node[left] at (0,0) {O};
 		\end{tikzpicture}

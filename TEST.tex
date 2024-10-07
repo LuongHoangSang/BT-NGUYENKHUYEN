@@ -27,6 +27,7 @@
 \usepackage{titletoc}
 \usepackage{colortbl}
 \usepackage{capt-of}
+\usepackage{tkz-euclide}
 % lệnh siunit 
 \newcommand{\xsi}[2]{\SI[parse-numbers=false]{#1}{#2}}
 \newcommand{\outfooter}{
@@ -38,7 +39,7 @@
 \newcommand{\namhoc}{
 	\color{purple}\bfseries	Năm học: 2024 - 2025
 }
-\def\monhoc{\bfseries Vật lí 10}%{\bfseries Kế hoạch bài dạy vật lí 10}
+\def\monhoc{\color{purple}\bfseries Vật lí 10}%{\bfseries Kế hoạch bài dạy vật lí 10}
 \graphicspath{{figs/}{extra/}} % các thư mục chứa hình ảnh 
 
 % ========== PAPER FORMAT ====================
@@ -47,23 +48,19 @@
 	a4paper	% khổ giấy A4
 	,total={180mm,260mm} % kích thước văn bản A4 170mmx247mm
 	,left=15mm % canh lề trái
-	,top=20mm % canh lề trên
+	,top=10mm % canh lề trên
+	,bottom=20mm
 	,footskip=1.0cm % khoảng cách từ văn bản đến footer
 }
 % --- line spacing -- choose 1 in 2 choices 
 \onehalfspacing			% cách dòng đơn
-%\doublespacing			% cách dòng đôi  
+%\doublespacing			% cách dòng đôi 
 % ----- định dạng Header và footer
-% --- 
-\newlength\sectitleindent
-\setlength\sectitleindent{0.5cm}
-\newlength\subsectitleindent
-\setlength\subsectitleindent{1cm}
 % --- trang văn bản thông thường  
 \pagestyle{fancy} 
 \fancyhf{}
 \renewcommand{\headrulewidth}
-{1pt} % độ dày đường kẻ ở header 
+{0pt} % độ dày đường kẻ ở header, chọn 0 để ko có dòng kẻ 
 \newcommand*\cirpage[1] % tạo hình tròn quanh số trang 
 {\tikz[baseline=(char.base)]
 	{
@@ -77,10 +74,9 @@
 		{#1};
 	}
 }
-\fancyhead[LO,RE] % footer - lề trong 
-{	
-	\small \outheader \hfill \namhoc% tên tài liệu lấy từ phần khai báo đầu file 
-}  
+%\fancyhead[LO,RE]{
+%	\small\outheader\hfill\namhoc
+%}
 \fancyfoot[LO,RE] % footer - lề trong 
 {	
 	\small \outfooter % tên tài liệu lấy từ phần khai báo đầu file 
@@ -91,22 +87,20 @@
 } 
 \fancyfoot[LE] % footer - lề ngoài 
 {
-	\hspace{-\sectitleindent}
 	\vspace*{-11pt}
-	{\color{purple} \monhoc}
+	\hspace*{-1.1pt}\monhoc
 }
 \fancyfoot[RO] % footer - lề ngoài 
 {
-	\hspace{-\sectitleindent}
 	\vspace*{-11pt}
-	{\color{purple} \monhoc}\hspace*{-5pt}
+	\monhoc
 }
-% --- trang Part và Chapter title 
+% --- trang Part và terter title 
 \fancypagestyle{plain} % mặc định của trang Part và Chapter title 
 {
 	\fancyfoot[LO,RE]
 	{
-		\hspace{-\sectitleindent}\small \outfooter
+		\small \outfooter
 	}
 	\fancyfoot[CO,CE]
 	{
@@ -114,15 +108,13 @@
 	} % footer - giữa trang chẵn và lẻ 
 	\fancyfoot[LE]
 	{
-		\hspace{-\sectitleindent}
 		\vspace*{-11pt}
-		\hspace*{-1.1pt}{\color{purple}\monhoc}
+		\hspace*{-1.1pt}\monhoc
 	}
 	\fancyfoot[RO]
 	{
-		\hspace{-\sectitleindent}
 		\vspace*{-11pt}
-		{\color{purple}\monhoc}\hspace*{-5pt}
+		\monhoc
 	}
 } % giống với trang thường 
 % ký hiệu từ font Boondox 
@@ -155,27 +147,28 @@
 	{
 		\normalfont\bfseries
 	}
-%	\begin{tabular}{C{6cm}C{11cm}}
-%		\textbf{TRUNG TÂM MANABIE}& \textbf{ĐỀ KIỂM TRA ĐẦU CHƯƠNG LỚP 12} \\
-%		\textbf{ĐỀ PH12D02}& \textbf{Môn: VẬT LÝ}\\
-%		\textit{(Đề có 04 trang)}& \textit{Thời gian làm bài: 45 phút, không kể thời gian phát đề}
-%		
-%		\noindent\rule{4cm}{0.8pt} \\
-%	\end{tabular}
-%\newcommand{\hoac}[1]{ %hệ hoặc
-%	\left[\begin{aligned}#1\end{aligned}\right.}
-%\newcommand{\heva}[1]{ %hệ và
-%	\left\{\begin{aligned}#1\end{aligned}\right.}
-% ====================================================== input data BT1+2
-%\input{data/G12-C1}
-%\newpage\input{data/G12-C1-DA}
-% ====================================================== input data BT1+2
-%\input{data/G11-BT1+2}
-%\input{data/G12-BT1+2}
-%\input{data/G10-TUAN4}
-%\input{data/G10-CDTBDD}
-%\input{data/G10-CHUONG1-DA}\newpage
-%\input{data/G10-CHUONG1}
-\input{data/G10-BAI4}
+	
+	%\newcommand{\hoac}[1]{ %hệ hoặc
+		%	\left[\begin{aligned}#1\end{aligned}\right.}
+	%\newcommand{\heva}[1]{ %hệ và
+		%	\left\{\begin{aligned}#1\end{aligned}\right.}
+	% ====================================================== input data BT1+2
+	%\input{data/G12-C1}
+	%\newpage\input{data/G12-C1-DA}
+	% ====================================================== input data BT1+2
+	%\input{data/G11-BT1+2}
+	%\input{data/G12-BT1+2}
+	%\input{data/G10-TUAN4}
+	%\input{data/G10-CDTBDD}
+	%\input{data/G10-CHUONG1-DA}\newpage
+	%\input{data/G10-CHUONG1}
+	%\input{data/G10-BAI4}
+	%\input{data/G10-BAI5}
+	%\input{data/G10-BAI7}
+	% ======================== ÔN TẬP GKI
+	%\input{data/D10-GKI-001-DA}
+	\input{data/D10-GKI-001}\newpage
+	\input{data/D10-GKI-002}
 
+	
 \end{document}
