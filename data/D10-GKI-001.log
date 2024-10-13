@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.9.6)  7 OCT 2024 22:54
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.9.6)  9 OCT 2024 22:25
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -34,8 +34,8 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.2 	\begin{tabular}{M{10cm}M{8cm}}
-                                   
+l.2 	\begin{tabular}{M{9.25cm}M{8.75cm}}
+                                        
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
@@ -46,8 +46,8 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.2 	\begin{tabular}{M{10cm}M{8cm}}
-                                   
+l.2 	\begin{tabular}{M{9.25cm}M{8.75cm}}
+                                        
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
@@ -58,8 +58,8 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.2 	\begin{tabular}{M{10cm}M{8cm}}
-                                   
+l.2 	\begin{tabular}{M{9.25cm}M{8.75cm}}
+                                        
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
@@ -70,8 +70,8 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.2 	\begin{tabular}{M{10cm}M{8cm}}
-                                   
+l.2 	\begin{tabular}{M{9.25cm}M{8.75cm}}
+                                        
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
@@ -83,7 +83,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.3 ...bf{TRƯỜNG THCS - THPT NGUYỄN KHUYẾN}
+l.3 ...xtbf{TRƯỜNG THCS-THPT NGUYỄN KHUYẾN}
                                                   & \textbf{ÔN TẬP GIỮA...
 
 You may provide a definition with
@@ -97,7 +97,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.3 ...bf{TRƯỜNG THCS - THPT NGUYỄN KHUYẾN}
+l.3 ...xtbf{TRƯỜNG THCS-THPT NGUYỄN KHUYẾN}
                                                   & \textbf{ÔN TẬP GIỮA...
 
 You may provide a definition with
@@ -111,7 +111,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.3 ...bf{TRƯỜNG THCS - THPT NGUYỄN KHUYẾN}
+l.3 ...xtbf{TRƯỜNG THCS-THPT NGUYỄN KHUYẾN}
                                                   & \textbf{ÔN TẬP GIỮA...
 
 You may provide a definition with
@@ -125,7 +125,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.3 ...bf{TRƯỜNG THCS - THPT NGUYỄN KHUYẾN}
+l.3 ...xtbf{TRƯỜNG THCS-THPT NGUYỄN KHUYẾN}
                                                   & \textbf{ÔN TẬP GIỮA...
 
 You may provide a definition with
@@ -245,7 +245,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.5 ...phút, không kể thời gian phát đề}
+l.5 ...�m bài: 45 phút, không kể phát đề}
                                                   
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -258,20 +258,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.5 ...phút, không kể thời gian phát đề}
-                                                  
-You may provide a definition with
-\DeclareUnicodeCharacter 
-
-
-! LaTeX Error: Unicode character ờ (U+1EDD)
-               not set up for use with LaTeX.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.5 ...phút, không kể thời gian phát đề}
+l.5 ...�m bài: 45 phút, không kể phát đề}
                                                   
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -283,7 +270,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.5 ...phút, không kể thời gian phát đề}
+l.5 ...�m bài: 45 phút, không kể phát đề}
                                                   
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -297,13 +284,13 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.5 ...phút, không kể thời gian phát đề}
+l.5 ...�m bài: 45 phút, không kể phát đề}
                                                   
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
 
-Overfull \hbox (542.31813pt too wide) in paragraph at lines 2--9
+Overfull \hbox (497.5962pt too wide) in paragraph at lines 2--9
  [] 
  []
 
@@ -622,7 +609,7 @@ or  <return>  to continue without it.
 
 ! Undefined control sequence.
 l.14 \Opensolutionfile
-                      {ans}[ans/G10-4-TN]
+                      {ans}[ans/D10-GKI-001-TN]
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -637,11 +624,17 @@ Missing character: There is no a in font nullfont!
 Missing character: There is no n in font nullfont!
 Missing character: There is no s in font nullfont!
 Missing character: There is no / in font nullfont!
-Missing character: There is no G in font nullfont!
+Missing character: There is no D in font nullfont!
 Missing character: There is no 1 in font nullfont!
 Missing character: There is no 0 in font nullfont!
 Missing character: There is no - in font nullfont!
-Missing character: There is no 4 in font nullfont!
+Missing character: There is no G in font nullfont!
+Missing character: There is no K in font nullfont!
+Missing character: There is no I in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no 1 in font nullfont!
 Missing character: There is no - in font nullfont!
 Missing character: There is no T in font nullfont!
 Missing character: There is no N in font nullfont!
@@ -659,68 +652,11 @@ Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-
-! LaTeX Error: Command \DJ unavailable in encoding .
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.17 	Đ
-        ối tượng nghiên cứu của vật lí là gì?
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-! LaTeX Error: Unicode character ố (U+1ED1)
-               not set up for use with LaTeX.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.17 	Đố
-           i tượng nghiên cứu của vật lí là gì?
-You may provide a definition with
-\DeclareUnicodeCharacter 
-
-Missing character: There is no i in font nullfont!
+Missing character: There is no C in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no g in font nullfont!
 Missing character: There is no t in font nullfont!
-
-! LaTeX Error: Unicode character ư (U+01B0)
-               not set up for use with LaTeX.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.17 	Đối tư
-                ợng nghiên cứu của vật lí là gì?
-You may provide a definition with
-\DeclareUnicodeCharacter 
-
-
-! LaTeX Error: Unicode character ợ (U+1EE3)
-               not set up for use with LaTeX.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.17 	Đối tượ
-                   ng nghiên cứu của vật lí là gì?
-You may provide a definition with
-\DeclareUnicodeCharacter 
-
-Missing character: There is no n in font nullfont!
-Missing character: There is no g in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no g in font nullfont!
 Missing character: There is no h in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no c in font nullfont!
 
 ! LaTeX Error: Unicode character ứ (U+1EE9)
                not set up for use with LaTeX.
@@ -729,46 +665,65 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.17 	Đối tượng nghiên cứ
-                                  u của vật lí là gì?
+l.17 Công thứ
+                c tính tốc độ trung bình là	
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
-Missing character: There is no u in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no t in font nullfont!
+
+! LaTeX Error: Unicode character ố (U+1ED1)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.17 Công thức tính tố
+                            c độ trung bình là	
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
 Missing character: There is no c in font nullfont!
 
-! LaTeX Error: Unicode character ủ (U+1EE7)
+! LaTeX Error: Command \dj unavailable in encoding .
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.17 Công thức tính tốc đ
+                                ộ trung bình là	
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: Unicode character ộ (U+1ED9)
                not set up for use with LaTeX.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.17 	Đối tượng nghiên cứu củ
-                                        a vật lí là gì?
-You may provide a definition with
-\DeclareUnicodeCharacter 
-
-Missing character: There is no a in font nullfont!
-Missing character: There is no v in font nullfont!
-
-! LaTeX Error: Unicode character ậ (U+1EAD)
-               not set up for use with LaTeX.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.17 	Đối tượng nghiên cứu của vậ
-                                              t lí là gì?
+l.17 Công thức tính tốc độ
+                                    trung bình là	
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
 Missing character: There is no t in font nullfont!
-Missing character: There is no l in font nullfont!
-Missing character: There is no l in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no n in font nullfont!
 Missing character: There is no g in font nullfont!
-Missing character: There is no ? in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no l in font nullfont!
 ! Undefined control sequence.
 l.18 	\choice
              
@@ -778,588 +733,69 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-Missing character: There is no C in font nullfont!
-Missing character: There is no c in font nullfont!
-Missing character: There is no d in font nullfont!
-
-! LaTeX Error: Unicode character ạ (U+1EA1)
-               not set up for use with LaTeX.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.19 	{Các dạ
-                ng vận động và tương tác của vật chất}
-You may provide a definition with
-\DeclareUnicodeCharacter 
-
-Missing character: There is no n in font nullfont!
-Missing character: There is no g in font nullfont!
-Missing character: There is no v in font nullfont!
-
-! LaTeX Error: Unicode character ậ (U+1EAD)
-               not set up for use with LaTeX.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.19 	{Các dạng vậ
-                       n động và tương tác của vật chất}
-You may provide a definition with
-\DeclareUnicodeCharacter 
-
-Missing character: There is no n in font nullfont!
-
-! LaTeX Error: Command \dj unavailable in encoding .
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.19 	{Các dạng vận đ
-                           ộng và tương tác của vật chất}
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-! LaTeX Error: Unicode character ộ (U+1ED9)
-               not set up for use with LaTeX.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.19 	{Các dạng vận độ
-                              ng và tương tác của vật chất}
-You may provide a definition with
-\DeclareUnicodeCharacter 
-
-Missing character: There is no n in font nullfont!
-Missing character: There is no g in font nullfont!
-Missing character: There is no v in font nullfont!
-Missing character: There is no t in font nullfont!
-
-! LaTeX Error: Unicode character ư (U+01B0)
-               not set up for use with LaTeX.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.19 	{Các dạng vận động và tư
-                                        ơng tác của vật chất}
-You may provide a definition with
-\DeclareUnicodeCharacter 
-
-
-! LaTeX Error: Unicode character ơ (U+01A1)
-               not set up for use with LaTeX.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.19 	{Các dạng vận động và tươ
-                                          ng tác của vật chất}
-You may provide a definition with
-\DeclareUnicodeCharacter 
-
-Missing character: There is no n in font nullfont!
-Missing character: There is no g in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no c in font nullfont!
-Missing character: There is no c in font nullfont!
-
-! LaTeX Error: Unicode character ủ (U+1EE7)
-               not set up for use with LaTeX.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.19 ...dạng vận động và tương tác củ
-                                                  a vật chất}
-You may provide a definition with
-\DeclareUnicodeCharacter 
-
-Missing character: There is no a in font nullfont!
-Missing character: There is no v in font nullfont!
-
-! LaTeX Error: Unicode character ậ (U+1EAD)
-               not set up for use with LaTeX.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.19 ... vận động và tương tác của vậ
-                                                  t chất}
-You may provide a definition with
-\DeclareUnicodeCharacter 
-
-Missing character: There is no t in font nullfont!
-Missing character: There is no c in font nullfont!
-Missing character: There is no h in font nullfont!
-
-! LaTeX Error: Unicode character ấ (U+1EA5)
-               not set up for use with LaTeX.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.19 ...động và tương tác của vật chấ
-                                                  t}
-You may provide a definition with
-\DeclareUnicodeCharacter 
-
-Missing character: There is no t in font nullfont!
-Missing character: There is no Q in font nullfont!
-Missing character: There is no u in font nullfont!
-Missing character: There is no y in font nullfont!
-Missing character: There is no l in font nullfont!
-Missing character: There is no u in font nullfont!
-
-! LaTeX Error: Unicode character ậ (U+1EAD)
-               not set up for use with LaTeX.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.20 	{Quy luậ
-                t tương tác của các dạng năng lượng}
-You may provide a definition with
-\DeclareUnicodeCharacter 
-
-Missing character: There is no t in font nullfont!
-Missing character: There is no t in font nullfont!
-
-! LaTeX Error: Unicode character ư (U+01B0)
-               not set up for use with LaTeX.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.20 	{Quy luật tư
-                     ơng tác của các dạng năng lượng}
-You may provide a definition with
-\DeclareUnicodeCharacter 
-
-
-! LaTeX Error: Unicode character ơ (U+01A1)
-               not set up for use with LaTeX.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.20 	{Quy luật tươ
-                       ng tác của các dạng năng lượng}
-You may provide a definition with
-\DeclareUnicodeCharacter 
-
-Missing character: There is no n in font nullfont!
-Missing character: There is no g in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no c in font nullfont!
-Missing character: There is no c in font nullfont!
-
-! LaTeX Error: Unicode character ủ (U+1EE7)
-               not set up for use with LaTeX.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.20 	{Quy luật tương tác củ
-                                   a các dạng năng lượng}
-You may provide a definition with
-\DeclareUnicodeCharacter 
-
-Missing character: There is no a in font nullfont!
-Missing character: There is no c in font nullfont!
-Missing character: There is no c in font nullfont!
-Missing character: There is no d in font nullfont!
-
-! LaTeX Error: Unicode character ạ (U+1EA1)
-               not set up for use with LaTeX.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.20 	{Quy luật tương tác của các dạ
-                                              ng năng lượng}
-You may provide a definition with
-\DeclareUnicodeCharacter 
-
-Missing character: There is no n in font nullfont!
-Missing character: There is no g in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no g in font nullfont!
-Missing character: There is no l in font nullfont!
-
-! LaTeX Error: Unicode character ư (U+01B0)
-               not set up for use with LaTeX.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.20 ...t tương tác của các dạng năng lư
-                                                  ợng}
-You may provide a definition with
-\DeclareUnicodeCharacter 
-
-
-! LaTeX Error: Unicode character ợ (U+1EE3)
-               not set up for use with LaTeX.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.20 ...ương tác của các dạng năng lượ
-                                                  ng}
-You may provide a definition with
-\DeclareUnicodeCharacter 
-
-Missing character: There is no n in font nullfont!
-Missing character: There is no g in font nullfont!
 ! Undefined control sequence.
-l.21 	{\True
-             Các dạng vận động của vật chất và năng lượng}
+l.19 	{\True
+             $v_{\text{tb}}=\dfrac{s}{t}$}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-Missing character: There is no C in font nullfont!
-Missing character: There is no c in font nullfont!
-Missing character: There is no d in font nullfont!
+! Undefined control sequence.
+l.19 	{\True $v_{\text
+                      {tb}}=\dfrac{s}{t}$}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.19 	{\True $v_{\text{tb}}=\dfrac
+                                  {s}{t}$}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.20 	{$v_{\text
+                {tb}}=\dfrac{t}{s}$}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.20 	{$v_{\text{tb}}=\dfrac
+                            {t}{s}$}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.21 	{$v_{\text
+                {tb}}=st$}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.22 	{$v_{\text
+                {tb}}=st^2$}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
 
-! LaTeX Error: Unicode character ạ (U+1EA1)
-               not set up for use with LaTeX.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.21 	{\True Các dạ
-                      ng vận động của vật chất và năng lượng}
-You may provide a definition with
-\DeclareUnicodeCharacter 
-
-Missing character: There is no n in font nullfont!
-Missing character: There is no g in font nullfont!
-Missing character: There is no v in font nullfont!
-
-! LaTeX Error: Unicode character ậ (U+1EAD)
-               not set up for use with LaTeX.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.21 	{\True Các dạng vậ
-                             n động của vật chất và năng lượng}
-You may provide a definition with
-\DeclareUnicodeCharacter 
-
-Missing character: There is no n in font nullfont!
-
-! LaTeX Error: Command \dj unavailable in encoding .
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.21 	{\True Các dạng vận đ
-                                 ộng của vật chất và năng lượng}
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-! LaTeX Error: Unicode character ộ (U+1ED9)
-               not set up for use with LaTeX.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.21 	{\True Các dạng vận độ
-                                    ng của vật chất và năng lượng}
-You may provide a definition with
-\DeclareUnicodeCharacter 
-
-Missing character: There is no n in font nullfont!
-Missing character: There is no g in font nullfont!
-Missing character: There is no c in font nullfont!
-
-! LaTeX Error: Unicode character ủ (U+1EE7)
-               not set up for use with LaTeX.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.21 	{\True Các dạng vận động củ
-                                           a vật chất và năng lượng}
-You may provide a definition with
-\DeclareUnicodeCharacter 
-
-Missing character: There is no a in font nullfont!
-Missing character: There is no v in font nullfont!
-
-! LaTeX Error: Unicode character ậ (U+1EAD)
-               not set up for use with LaTeX.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.21 	{\True Các dạng vận động của vậ
-                                                 t chất và năng lượng}
-You may provide a definition with
-\DeclareUnicodeCharacter 
-
-Missing character: There is no t in font nullfont!
-Missing character: There is no c in font nullfont!
-Missing character: There is no h in font nullfont!
-
-! LaTeX Error: Unicode character ấ (U+1EA5)
-               not set up for use with LaTeX.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.21 ...ác dạng vận động của vật chấ
-                                                  t và năng lượng}
-You may provide a definition with
-\DeclareUnicodeCharacter 
-
-Missing character: There is no t in font nullfont!
-Missing character: There is no v in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no g in font nullfont!
-Missing character: There is no l in font nullfont!
-
-! LaTeX Error: Unicode character ư (U+01B0)
-               not set up for use with LaTeX.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.21 ...n động của vật chất và năng lư
-                                                  ợng}
-You may provide a definition with
-\DeclareUnicodeCharacter 
-
-
-! LaTeX Error: Unicode character ợ (U+1EE3)
-               not set up for use with LaTeX.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.21 ...�ộng của vật chất và năng lượ
-                                                  ng}
-You may provide a definition with
-\DeclareUnicodeCharacter 
-
-Missing character: There is no n in font nullfont!
-Missing character: There is no g in font nullfont!
-Missing character: There is no Q in font nullfont!
-Missing character: There is no u in font nullfont!
-Missing character: There is no y in font nullfont!
-Missing character: There is no l in font nullfont!
-Missing character: There is no u in font nullfont!
-
-! LaTeX Error: Unicode character ậ (U+1EAD)
-               not set up for use with LaTeX.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.22 	{Quy luậ
-                t vận động, phát triển của sự vật - hiện tư...
-
-You may provide a definition with
-\DeclareUnicodeCharacter 
-
-Missing character: There is no t in font nullfont!
-Missing character: There is no v in font nullfont!
-
-! LaTeX Error: Unicode character ậ (U+1EAD)
-               not set up for use with LaTeX.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.22 	{Quy luật vậ
-                      n động, phát triển của sự vật - hiện tư...
-
-You may provide a definition with
-\DeclareUnicodeCharacter 
-
-Missing character: There is no n in font nullfont!
-
-! LaTeX Error: Command \dj unavailable in encoding .
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.22 	{Quy luật vận đ
-                          ộng, phát triển của sự vật - hiện tư...
-
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-! LaTeX Error: Unicode character ộ (U+1ED9)
-               not set up for use with LaTeX.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.22 	{Quy luật vận độ
-                             ng, phát triển của sự vật - hiện tư...
-
-You may provide a definition with
-\DeclareUnicodeCharacter 
-
-Missing character: There is no n in font nullfont!
-Missing character: There is no g in font nullfont!
-Missing character: There is no , in font nullfont!
-Missing character: There is no p in font nullfont!
-Missing character: There is no h in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no i in font nullfont!
-
-! LaTeX Error: Unicode character ể (U+1EC3)
-               not set up for use with LaTeX.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.22 	{Quy luật vận động, phát triể
-                                             n của sự vật - hiện tư...
-
-You may provide a definition with
-\DeclareUnicodeCharacter 
-
-Missing character: There is no n in font nullfont!
-Missing character: There is no c in font nullfont!
-
-! LaTeX Error: Unicode character ủ (U+1EE7)
-               not set up for use with LaTeX.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.22 ...y luật vận động, phát triển củ
-                                                  a sự vật - hiện tư�...
-
-You may provide a definition with
-\DeclareUnicodeCharacter 
-
-Missing character: There is no a in font nullfont!
-Missing character: There is no s in font nullfont!
-
-! LaTeX Error: Unicode character ự (U+1EF1)
-               not set up for use with LaTeX.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.22 ...�t vận động, phát triển của sự
-                                                   vật - hiện tượng}
-You may provide a definition with
-\DeclareUnicodeCharacter 
-
-Missing character: There is no v in font nullfont!
-
-! LaTeX Error: Unicode character ậ (U+1EAD)
-               not set up for use with LaTeX.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.22 ...��n động, phát triển của sự vậ
-                                                  t - hiện tượng}
-You may provide a definition with
-\DeclareUnicodeCharacter 
-
-Missing character: There is no t in font nullfont!
-Missing character: There is no - in font nullfont!
-Missing character: There is no h in font nullfont!
-Missing character: There is no i in font nullfont!
-
-! LaTeX Error: Unicode character ệ (U+1EC7)
-               not set up for use with LaTeX.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.22 ...ng, phát triển của sự vật - hiệ
-                                                  n tượng}
-You may provide a definition with
-\DeclareUnicodeCharacter 
-
-Missing character: There is no n in font nullfont!
-Missing character: There is no t in font nullfont!
-
-! LaTeX Error: Unicode character ư (U+01B0)
-               not set up for use with LaTeX.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.22 ...hát triển của sự vật - hiện tư
-                                                  ợng}
-You may provide a definition with
-\DeclareUnicodeCharacter 
-
-
-! LaTeX Error: Unicode character ợ (U+1EE3)
-               not set up for use with LaTeX.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.22 ...t triển của sự vật - hiện tượ
-                                                  ng}
-You may provide a definition with
-\DeclareUnicodeCharacter 
-
-Missing character: There is no n in font nullfont!
-Missing character: There is no g in font nullfont!
 ! Undefined control sequence.
 l.23 	\loigiai
               {}
@@ -1395,6 +831,600 @@ Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
+Missing character: There is no M in font nullfont!
+
+! LaTeX Error: Unicode character ộ (U+1ED9)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.27 Mộ
+         t vật chuyển động thẳng biến đổi. Tại thời điể...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+Missing character: There is no t in font nullfont!
+Missing character: There is no v in font nullfont!
+
+! LaTeX Error: Unicode character ậ (U+1EAD)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.27 Một vậ
+               t chuyển động thẳng biến đổi. Tại thời điể...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+Missing character: There is no t in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no y in font nullfont!
+
+! LaTeX Error: Unicode character ể (U+1EC3)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.27 Một vật chuyể
+                        n động thẳng biến đổi. Tại thời điể...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+Missing character: There is no n in font nullfont!
+
+! LaTeX Error: Command \dj unavailable in encoding .
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.27 Một vật chuyển đ
+                            ộng thẳng biến đổi. Tại thời điể...
+
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: Unicode character ộ (U+1ED9)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.27 Một vật chuyển độ
+                               ng thẳng biến đổi. Tại thời điể...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+Missing character: There is no n in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
+
+! LaTeX Error: Unicode character ẳ (U+1EB3)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.27 Một vật chuyển động thẳ
+                                       ng biến đổi. Tại thời điể...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+Missing character: There is no n in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no i in font nullfont!
+
+! LaTeX Error: Unicode character ế (U+1EBF)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.27 Một vật chuyển động thẳng biế
+                                               n đổi. Tại thời điể...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+Missing character: There is no n in font nullfont!
+
+! LaTeX Error: Command \dj unavailable in encoding .
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.27 ...t vật chuyển động thẳng biến đ
+                                                  ổi. Tại thời điểm...
+
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: Unicode character ổ (U+1ED5)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.27 ...ật chuyển động thẳng biến đổ
+                                                  i. Tại thời điểm $t...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+Missing character: There is no i in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no T in font nullfont!
+
+! LaTeX Error: Unicode character ạ (U+1EA1)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.27 ...uyển động thẳng biến đổi. Tạ
+                                                  i thời điểm $t_0$ v�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+Missing character: There is no i in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
+
+! LaTeX Error: Unicode character ờ (U+1EDD)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.27 ...động thẳng biến đổi. Tại thờ
+                                                  i điểm $t_0$ vận tố...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+Missing character: There is no i in font nullfont!
+
+! LaTeX Error: Command \dj unavailable in encoding .
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.27 ...�ng thẳng biến đổi. Tại thời đ
+                                                  iểm $t_0$ vận tốc c�...
+
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+Missing character: There is no i in font nullfont!
+
+! LaTeX Error: Unicode character ể (U+1EC3)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.27 ...thẳng biến đổi. Tại thời điể
+                                                  m $t_0$ vận tốc của ...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+Missing character: There is no m in font nullfont!
+Missing character: There is no v in font nullfont!
+
+! LaTeX Error: Unicode character ậ (U+1EAD)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.27 ...�n đổi. Tại thời điểm $t_0$ vậ
+                                                  n tốc của vật là $v...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+Missing character: There is no n in font nullfont!
+Missing character: There is no t in font nullfont!
+
+! LaTeX Error: Unicode character ố (U+1ED1)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.27 ...��i. Tại thời điểm $t_0$ vận tố
+                                                  c của vật là $v_0$, t...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+Missing character: There is no c in font nullfont!
+Missing character: There is no c in font nullfont!
+
+! LaTeX Error: Unicode character ủ (U+1EE7)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.27 ...ại thời điểm $t_0$ vận tốc củ
+                                                  a vật là $v_0$, tại t...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+Missing character: There is no a in font nullfont!
+Missing character: There is no v in font nullfont!
+
+! LaTeX Error: Unicode character ậ (U+1EAD)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.27 ...hời điểm $t_0$ vận tốc của vậ
+                                                  t là $v_0$, tại thời ...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+Missing character: There is no t in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no t in font nullfont!
+
+! LaTeX Error: Unicode character ạ (U+1EA1)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.27 ...0$ vận tốc của vật là $v_0$, tạ
+                                                  i thời điểm $t$ vật...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+Missing character: There is no i in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
+
+! LaTeX Error: Unicode character ờ (U+1EDD)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.27 ...n tốc của vật là $v_0$, tại thờ
+                                                  i điểm $t$ vật có v�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+Missing character: There is no i in font nullfont!
+
+! LaTeX Error: Command \dj unavailable in encoding .
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.27 ...��c của vật là $v_0$, tại thời đ
+                                                  iểm $t$ vật có vận ...
+
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+Missing character: There is no i in font nullfont!
+
+! LaTeX Error: Unicode character ể (U+1EC3)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.27 ...của vật là $v_0$, tại thời điể
+                                                  m $t$ vật có vận tố...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+Missing character: There is no m in font nullfont!
+Missing character: There is no v in font nullfont!
+
+! LaTeX Error: Unicode character ậ (U+1EAD)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.27 ...t là $v_0$, tại thời điểm $t$ vậ
+                                                  t có vận tốc $v$. Cô...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+Missing character: There is no t in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no v in font nullfont!
+
+! LaTeX Error: Unicode character ậ (U+1EAD)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.27 ...$, tại thời điểm $t$ vật có vậ
+                                                  n tốc $v$. Công thức ...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+Missing character: There is no n in font nullfont!
+Missing character: There is no t in font nullfont!
+
+! LaTeX Error: Unicode character ố (U+1ED1)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.27 ...�i thời điểm $t$ vật có vận tố
+                                                  c $v$. Công thức tính ...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+Missing character: There is no c in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no C in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
+
+! LaTeX Error: Unicode character ứ (U+1EE9)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.27 ...$t$ vật có vận tốc $v$. Công thứ
+                                                  c tính gia tốc trung b�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+Missing character: There is no c in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+
+! LaTeX Error: Unicode character ố (U+1ED1)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.27 ...��n tốc $v$. Công thức tính gia tố
+                                                  c trung bình của vật ...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+Missing character: There is no c in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no c in font nullfont!
+
+! LaTeX Error: Unicode character ủ (U+1EE7)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.27 ...ng thức tính gia tốc trung bình củ
+                                                  a vật là	
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+Missing character: There is no a in font nullfont!
+Missing character: There is no v in font nullfont!
+
+! LaTeX Error: Unicode character ậ (U+1EAD)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.27 ...��c tính gia tốc trung bình của vậ
+                                                  t là	
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+Missing character: There is no t in font nullfont!
+Missing character: There is no l in font nullfont!
+! Undefined control sequence.
+l.28 	\choice
+             
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.29 	{\True
+             $a_{\text{tb}}=\dfrac{v-v_0}{t-t_0}$}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.29 	{\True $a_{\text
+                      {tb}}=\dfrac{v-v_0}{t-t_0}$}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.29 	{\True $a_{\text{tb}}=\dfrac
+                                  {v-v_0}{t-t_0}$}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.30 	{$a_{\text
+                {tb}}=\dfrac{v+v_0}{t-t_0}$}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.30 	{$a_{\text{tb}}=\dfrac
+                            {v+v_0}{t-t_0}$}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.31 	{$a_{\text
+                {tb}}=\dfrac{v-v_0}{t+t_0}$}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.31 	{$a_{\text{tb}}=\dfrac
+                            {v-v_0}{t+t_0}$}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.32 	{$a_{\text
+                {tb}}=\dfrac{v+v_0}{t+t_0}$}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.32 	{$a_{\text{tb}}=\dfrac
+                            {v+v_0}{t+t_0}$}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.33 	\loigiai
+              {}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: \begin{document} ended by \end{ex}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.34 \end{ex}
+             
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: Environment ex undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.36 \begin{ex}
+               
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
 Missing character: There is no C in font nullfont!
 Missing character: There is no h in font nullfont!
 
@@ -1405,7 +1435,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.27 	Chọ
+l.37 	Chọ
            n phát biểu \textbf{đúng}.
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -1424,7 +1454,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.27 	Chọn phát biể
+l.37 	Chọn phát biể
                         u \textbf{đúng}.
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -1437,7 +1467,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.27 	Chọn phát biểu \textbf{đúng}
+l.37 	Chọn phát biểu \textbf{đúng}
                                          .
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -1445,7 +1475,7 @@ or  <return>  to continue without it.
 
 Missing character: There is no . in font nullfont!
 ! Undefined control sequence.
-l.28 	\choice
+l.38 	\choice
              
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1462,7 +1492,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.29 	{Vậ
+l.39 	{Vậ
            n tốc tức thời cho ta biết chiều chuyển động của...
 
 You may provide a definition with
@@ -1478,7 +1508,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.29 	{Vận tố
+l.39 	{Vận tố
                  c tức thời cho ta biết chiều chuyển động của...
 
 You may provide a definition with
@@ -1494,7 +1524,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.29 	{Vận tốc tứ
+l.39 	{Vận tốc tứ
                        c thời cho ta biết chiều chuyển động của...
 
 You may provide a definition with
@@ -1511,7 +1541,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.29 	{Vận tốc tức thờ
+l.39 	{Vận tốc tức thờ
                               i cho ta biết chiều chuyển động của...
 
 You may provide a definition with
@@ -1533,7 +1563,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.29 	{Vận tốc tức thời cho ta biế
+l.39 	{Vận tốc tức thời cho ta biế
                                             t chiều chuyển động của...
 
 You may provide a definition with
@@ -1551,7 +1581,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.29 ...�n tốc tức thời cho ta biết chiề
+l.39 ...�n tốc tức thời cho ta biết chiề
                                                   u chuyển động của v...
 
 You may provide a definition with
@@ -1570,7 +1600,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.29 ...tức thời cho ta biết chiều chuyể
+l.39 ...tức thời cho ta biết chiều chuyể
                                                   n động của vật nên...
 
 You may provide a definition with
@@ -1584,7 +1614,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.29 ...c thời cho ta biết chiều chuyển đ
+l.39 ...c thời cho ta biết chiều chuyển đ
                                                   ộng của vật nên lu�...
 
 Your command was ignored.
@@ -1599,7 +1629,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.29 ...hời cho ta biết chiều chuyển độ
+l.39 ...hời cho ta biết chiều chuyển độ
                                                   ng của vật nên luôn ...
 
 You may provide a definition with
@@ -1616,7 +1646,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.29 ...ho ta biết chiều chuyển động củ
+l.39 ...ho ta biết chiều chuyển động củ
                                                   a vật nên luôn có gi�...
 
 You may provide a definition with
@@ -1632,7 +1662,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.29 ...biết chiều chuyển động của vậ
+l.39 ...biết chiều chuyển động của vậ
                                                   t nên luôn có giá tr�...
 
 You may provide a definition with
@@ -1657,7 +1687,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.29 ...��ng của vật nên luôn có giá trị
+l.39 ...��ng của vật nên luôn có giá trị
                                                    dương}
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -1671,7 +1701,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.29 ... của vật nên luôn có giá trị dư
+l.39 ... của vật nên luôn có giá trị dư
                                                   ơng}
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -1684,7 +1714,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.29 ...ủa vật nên luôn có giá trị dươ
+l.39 ...ủa vật nên luôn có giá trị dươ
                                                   ng}
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -1704,7 +1734,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.30 	{Vector đ
+l.40 	{Vector đ
                 ộ dịch chuyển thay đổi phương liên tục khi v�...
 
 Your command was ignored.
@@ -1719,7 +1749,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.30 	{Vector độ
+l.40 	{Vector độ
                     dịch chuyển thay đổi phương liên tục khi v�...
 
 You may provide a definition with
@@ -1734,7 +1764,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.30 	{Vector độ dị
+l.40 	{Vector độ dị
                         ch chuyển thay đổi phương liên tục khi v�...
 
 You may provide a definition with
@@ -1754,150 +1784,16 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.30 	{Vector độ dịch chuyể
+l.40 	{Vector độ dịch chuyể
                                   n thay đổi phương liên tục khi v�...
-
-You may provide a definition with
-\DeclareUnicodeCharacter 
-
-Missing character: There is no n in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no h in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no y in font nullfont!
-
-! LaTeX Error: Command \dj unavailable in encoding .
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.30 	{Vector độ dịch chuyển thay đ
-                                           ổi phương liên tục khi v�...
-
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-! LaTeX Error: Unicode character ổ (U+1ED5)
-               not set up for use with LaTeX.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.30 	{Vector độ dịch chuyển thay đổ
-                                              i phương liên tục khi v�...
-
-You may provide a definition with
-\DeclareUnicodeCharacter 
-
-Missing character: There is no i in font nullfont!
-Missing character: There is no p in font nullfont!
-Missing character: There is no h in font nullfont!
-
-! LaTeX Error: Unicode character ư (U+01B0)
-               not set up for use with LaTeX.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.30 ...tor độ dịch chuyển thay đổi phư
-                                                  ơng liên tục khi vật...
-
-You may provide a definition with
-\DeclareUnicodeCharacter 
-
-
-! LaTeX Error: Unicode character ơ (U+01A1)
-               not set up for use with LaTeX.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.30 ...r độ dịch chuyển thay đổi phươ
-                                                  ng liên tục khi vật c...
-
-You may provide a definition with
-\DeclareUnicodeCharacter 
-
-Missing character: There is no n in font nullfont!
-Missing character: There is no g in font nullfont!
-Missing character: There is no l in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no t in font nullfont!
-
-! LaTeX Error: Unicode character ụ (U+1EE5)
-               not set up for use with LaTeX.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.30 ...h chuyển thay đổi phương liên tụ
-                                                  c khi vật chuyển độ...
-
-You may provide a definition with
-\DeclareUnicodeCharacter 
-
-Missing character: There is no c in font nullfont!
-Missing character: There is no k in font nullfont!
-Missing character: There is no h in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no v in font nullfont!
-
-! LaTeX Error: Unicode character ậ (U+1EAD)
-               not set up for use with LaTeX.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.30 ... thay đổi phương liên tục khi vậ
-                                                  t chuyển động thẳng}
-You may provide a definition with
-\DeclareUnicodeCharacter 
-
-Missing character: There is no t in font nullfont!
-Missing character: There is no c in font nullfont!
-Missing character: There is no h in font nullfont!
-Missing character: There is no u in font nullfont!
-Missing character: There is no y in font nullfont!
-
-! LaTeX Error: Unicode character ể (U+1EC3)
-               not set up for use with LaTeX.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.30 ...��i phương liên tục khi vật chuyể
-                                                  n động thẳng}
-You may provide a definition with
-\DeclareUnicodeCharacter 
-
-Missing character: There is no n in font nullfont!
-
-! LaTeX Error: Command \dj unavailable in encoding .
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.30 ...phương liên tục khi vật chuyển đ
-                                                  ộng thẳng}
 (That makes 100 errors; please try again.) 
 Here is how much of TeX's memory you used:
- 95 strings out of 474116
- 1226 string characters out of 5747718
+ 91 strings out of 474116
+ 1248 string characters out of 5747718
  1927190 words of memory out of 5000000
- 22552 multiletter control sequences out of 15000+600000
+ 22548 multiletter control sequences out of 15000+600000
  558723 words of font info for 38 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 23i,7n,32p,164b,204s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 23i,7n,32p,268b,204s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 !  ==> Fatal error occurred, no output PDF file produced!

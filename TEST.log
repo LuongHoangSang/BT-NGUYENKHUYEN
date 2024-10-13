@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.9.6)  8 OCT 2024 01:38
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.9.6)  11 OCT 2024 17:13
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1837,21 +1837,15 @@ Package pdftex.def Info: figs/../figs/D10-2-12.jpg  used on input line 211.
 Output from handle ans going to ans/D10-GKI-002-TF.tex
 \openout7 = `ans/D10-GKI-002-TF.tex'.
 
-
-Overfull \hbox (58.32674pt too wide) in paragraph at lines 357--362
-\T5/cmr/m/n/10.95 =============================================================
-====== 
- []
-
 <figs/../figs/D10-2-8.jpg, id=50, 884.5848pt x 455.7828pt>
 File: figs/../figs/D10-2-8.jpg Graphic file (type jpg)
 <use figs/../figs/D10-2-8.jpg>
-Package pdftex.def Info: figs/../figs/D10-2-8.jpg  used on input line 364.
+Package pdftex.def Info: figs/../figs/D10-2-8.jpg  used on input line 363.
 (pdftex.def)             Requested size: 358.50314pt x 184.7162pt.
 <figs/../figs/D10-2-9.jpg, id=51, 254.9525pt x 173.64874pt>
 File: figs/../figs/D10-2-9.jpg Graphic file (type jpg)
 <use figs/../figs/D10-2-9.jpg>
-Package pdftex.def Info: figs/../figs/D10-2-9.jpg  used on input line 378.
+Package pdftex.def Info: figs/../figs/D10-2-9.jpg  used on input line 377.
 (pdftex.def)             Requested size: 204.8567pt x 139.53389pt.
 [9 <./figs/../figs/D10-2-8.jpg>]
 Output from handle ans going to ans/D10-GKI-002-TL.tex
@@ -1860,11 +1854,11 @@ Output from handle ans going to ans/D10-GKI-002-TL.tex
 <figs/../figs/D10-2-13.jpg, id=55, 214.30063pt x 100.87688pt>
 File: figs/../figs/D10-2-13.jpg Graphic file (type jpg)
 <use figs/../figs/D10-2-13.jpg>
-Package pdftex.def Info: figs/../figs/D10-2-13.jpg  used on input line 403.
+Package pdftex.def Info: figs/../figs/D10-2-13.jpg  used on input line 402.
 (pdftex.def)             Requested size: 281.68384pt x 132.60681pt.
 File: figs/../figs/D10-2-13.jpg Graphic file (type jpg)
 <use figs/../figs/D10-2-13.jpg>
-Package pdftex.def Info: figs/../figs/D10-2-13.jpg  used on input line 403.
+Package pdftex.def Info: figs/../figs/D10-2-13.jpg  used on input line 402.
 (pdftex.def)             Requested size: 154.92696pt x 72.92836pt.
 Missing character: There is no ; in font nullfont!
 Missing character: There is no ; in font nullfont!
@@ -1872,24 +1866,42 @@ Missing character: There is no ; in font nullfont!
 <figs/../figs/D10-2-14.jpg, id=59, 627.10234pt x 74.09962pt>
 File: figs/../figs/D10-2-14.jpg Graphic file (type jpg)
 <use figs/../figs/D10-2-14.jpg>
-Package pdftex.def Info: figs/../figs/D10-2-14.jpg  used on input line 452.
+Package pdftex.def Info: figs/../figs/D10-2-14.jpg  used on input line 451.
 (pdftex.def)             Requested size: 409.72124pt x 48.41292pt.
+) [11 <./figs/../figs/D10-2-14.jpg>] (./data/D10-GKI-001-DA.tex
+Overfull \hbox (17.0716pt too wide) in paragraph at lines 2--9
+ [] 
+ []
+
+LaTeX Font Info:    Trying to load font information for T5+qcs on input line 15
+.
+(c:/texlive/2024/texmf-dist/tex/latex/tex-gyre/t5qcs.fd
+File: t5qcs.fd 2009/09/25 v1.2 font definition file for T5/qcs
 )
+(./ans/D10-GKI-001-TN.tex) (./ans/D10-GKI-001-TF.tex) (./ans/D10-GKI-001-TL.tex
+)) [12{c:/texlive/2024/texmf-dist/fonts/enc/dvips/tex-gyre/q-t5.enc}]
+(./data/D10-GKI-002-DA.tex
+Overfull \hbox (17.0716pt too wide) in paragraph at lines 2--9
+ [] 
+ []
+
+(./ans/D10-GKI-002-TN.tex) (./ans/D10-GKI-002-TF.tex) (./ans/D10-GKI-002-TL.tex
+)) [13]
 \tf@thm=\write8
 \openout8 = `TEST.thm'.
 
- [11 <./figs/../figs/D10-2-14.jpg>] (./TEST.aux)
+ (./TEST.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2020/03/25>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 46611 strings out of 474116
- 1155453 string characters out of 5747718
- 2005216 words of memory out of 5000000
- 68124 multiletter control sequences out of 15000+600000
- 571058 words of font info for 66 fonts, out of 8000000 for 9000
+ 46747 strings out of 474116
+ 1158310 string characters out of 5747718
+ 2006217 words of memory out of 5000000
+ 68232 multiletter control sequences out of 15000+600000
+ 576388 words of font info for 79 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  117i,18n,129p,1205b,2494s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><c:/tex
@@ -1897,15 +1909,16 @@ live/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2024/
 texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><c:/texlive/2024/texmf-dist/
 fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2024/texmf-dist/fonts/typ
 e1/public/amsfonts/cm/cmsy8.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/
-cm-super/sfrm1095.pfb><c:/texlive/2024/texmf-dist/fonts/type1/vntex/vnr/vnbx10.
-pfb><c:/texlive/2024/texmf-dist/fonts/type1/vntex/vnr/vnbxti10.pfb><c:/texlive/
-2024/texmf-dist/fonts/type1/vntex/vnr/vnr10.pfb><c:/texlive/2024/texmf-dist/fon
-ts/type1/vntex/vnr/vnr8.pfb><c:/texlive/2024/texmf-dist/fonts/type1/vntex/vnr/v
-nti10.pfb>
-Output written on TEST.pdf (11 pages, 982779 bytes).
+tex-gyre/qcsr.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfrm1
+095.pfb><c:/texlive/2024/texmf-dist/fonts/type1/vntex/vnr/vnbx10.pfb><c:/texliv
+e/2024/texmf-dist/fonts/type1/vntex/vnr/vnbx12.pfb><c:/texlive/2024/texmf-dist/
+fonts/type1/vntex/vnr/vnbxti10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/vnte
+x/vnr/vnr10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/vntex/vnr/vnr8.pfb><c:/
+texlive/2024/texmf-dist/fonts/type1/vntex/vnr/vnti10.pfb>
+Output written on TEST.pdf (13 pages, 1019440 bytes).
 PDF statistics:
- 111 PDF objects out of 1000 (max. 8388607)
- 63 compressed objects within 1 object stream
+ 129 PDF objects out of 1000 (max. 8388607)
+ 75 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  73 words of extra memory for PDF output out of 10000 (max. 10000000)
 
