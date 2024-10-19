@@ -367,7 +367,14 @@ Một ô tô chạy trên đoạn đường thẳng từ A đến B mất khoả
 	{Trong quá trình AB, vật chuyển động thẳng đều}
 	{Trong quá trình EF, vật đứng yên}
 	{\True Độ lớn gia tốc tại D lớn hơn độ lớn gia tốc tại B}
-	\loigiai{}
+	\loigiai{
+	\begin{itemchoice}
+		\itemch Sai. Vật đạt tốc độ lớn nhất tại C.
+		\itemch Sai. Trong quá trình AB, vật chuyển động biến đổi.
+		\itemch Sai. Trong quá trình EF, tốc độ của vật khác 0.
+		\itemch Đúng. Độ dốc đồ thị tại D lớn hơn độ dốc của đồ thị tại B. 
+	\end{itemchoice}
+	}
 \end{ex}
 
 % ===================================================================
@@ -452,7 +459,7 @@ Một ô tô chạy trên đoạn đường thẳng từ A đến B mất khoả
 	\end{center}
 	\shortans{72}
 	\loigiai{
-		
+		$$\dfrac{s_6}{s_5}=\dfrac{\dfrac{1}{2}a\cdot6^2}{\dfrac{1}{2}a\cdot5^2}=\dfrac{36}{25}\Rightarrow s_6=50\cdot\dfrac{36}{25}=\SI{72}{\meter}.$$
 	}
 \end{ex}
 % ===============================================================
@@ -460,15 +467,61 @@ Một ô tô chạy trên đoạn đường thẳng từ A đến B mất khoả
 Trên quãng đường AB có hai xe chuyển động thẳng. Xe 1 đi từ A tới B với tốc độ trung bình $\SI{32}{\kilo\meter/\hour}$. Xe 2 đi từ B đến A, nửa quãng đường đầu chuyển động đều với tốc độ $\SI{60}{\kilo\meter/\hour}$, nửa quãng đường sau chuyển động đều với tốc độ $\SI{40}{\kilo\meter/\hour}$. Hai xe đến đích cùng lúc, xe 1 xuất phát sớm hơn xe 2 một khoảng thời gian 1 giờ. Tính quãng đường AB theo đơn vị kilomet?
 	\shortans{96 }
 	\loigiai{
-		
+		Tốc độ trung bình của xe 2 trên cả đoạn đường BA:
+		$$v_{\mathrm{tb2}}=\dfrac{2s}{\dfrac{s}{v_1}+\dfrac{s}{v_2}}=\dfrac{2}{\dfrac{1}{v_1}+\dfrac{1}{v_2}}=\dfrac{2}{\dfrac{1}{60}+\dfrac{1}{40}}=\SI{48}{\kilo\meter/\hour}.$$
+		Hai xe đến đích cùng lúc, xe 1 xuất phát sớm hơn xe 2 một khoảng thời gian 1 giờ nên:
+		\begin{eqnarray*}
+			&&t_1=t_2+1\\
+			&\Rightarrow&\dfrac{s}{v_{\mathrm{tb2}}}=\dfrac{s}{v_{\mathrm{tb1}}}+1\\
+			&\Leftrightarrow& \dfrac{s}{32}=\dfrac{s}{48}+1\\
+			&\Rightarrow& s=\SI{96}{\kilo\meter/\hour}
+		\end{eqnarray*}
 	}
 \end{ex}
 % ===============================================================
 \begin{ex}
 	Hai chất điểm chuyển động trên hai trục tọa độ vuông góc $Ox$, $Oy$ và đi qua $O$ cùng lúc. Vật thứ nhất chuyển động trên trục $Ox$ theo chiều dương với gia tốc không đổi bằng $\SI{1}{\meter/\second^2}$ và tốc độ khi đi qua O là $\SI{6}{\meter/\second}$. Vật thứ hai chuyển động chậm dần đều theo chiều âm trên trục $Oy$ với gia tốc có độ lớn $\SI{2}{\meter/\second^2}$ và  tốc độ khi đi qua O là $\SI{8}{\meter/\second}$. Độ lớn vận tốc nhỏ nhất của vật thứ nhất đối với vật thứ hai trong khoảng thời gian kể từ lúc đi qua O cho đến khi vật thứ hai dừng là bao nhiêu $\si{\meter/\second}$? \textit{(Kết quả làm tròn đến 2 chữ số sau dấu phẩy thập phân)}.
-	\shortans{$8,94$ }
+	\shortans{$8,94$}
 	\loigiai{
-		
+		\begin{center}
+			\begin{tikzpicture}
+				\coordinate (O) at (0,0);
+				\coordinate (x) at (3,0);
+				\coordinate (y) at (0,3);
+				\coordinate (vx) at (1.5,0);
+				\coordinate (vy) at (0,-2);
+				\draw[-stealth, line width=1.5pt] (-3,0)--(x);
+				\draw[-stealth, line width=1.5pt] (0,-3)--(y);
+				\draw[-stealth, line width=2pt, red] (O)--(vx);
+				\draw[-stealth, line width=2pt, blue] (O)--(vy);
+				\draw[-stealth, line width=2pt, red] (0.25,0.5)--(1,0.5);
+				\draw[-stealth, line width=2pt, blue] (O)--(0,1);
+				\node[above, red] at (vx) {$\vec{v}_{01}$};
+				\node[left, blue] at (vy) {$\vec{v}_{02}$};
+				\node[above left] at (O) {O};
+				\node[left, blue] at (0,1) {$\vec{a}_2$};
+					\node[above, red] at (0.8,0.5) {$\vec{a}_1$};
+					\node[above] at (x) {$x$};
+					\node[left] at (y) {$y$};
+			\end{tikzpicture}
+		\end{center}
+		Chọn gốc thời gian lúc 2 vật đi qua gốc tọa độ.\\
+		Phương trình vận tốc của mỗi vật:
+		$$\begin{cases}
+			v_1=v_{01}+a_1t\\
+			v_2=v_{02}+a_2t
+		\end{cases}\Rightarrow\begin{cases}
+		v_1=6+t\\
+		v_2=8-2t
+		\end{cases}.$$
+		Vận tốc tương đối của vật thứ nhất đối với vật thứ hai:
+		$$\vec{v}_{12}=\vec{v}_1-\vec{v}_2.$$
+		Vì $\vec{v}_1\bot\vec{v}_2$ nên:
+		\begin{equation}
+			\label{eq:1}
+			v^2_{12}=v^2_1+v^2_2=5t^2-20t+100
+		\end{equation}
+		Từ phương trình  \eqref{eq:1}, suy ra giá trị cực tiểu của $v^2_{12}$ là $v^2_{12\min}=80\Rightarrow v_{12\min}=\sqrt{80}\approx\SI{8.94}{\meter/\second}.$
 	}
 \end{ex}
 \Closesolutionfile{ans}
