@@ -41,7 +41,6 @@
 }
 \def\monhoc{\color{purple}\bfseries Vật lí 10}%{\bfseries Kế hoạch bài dạy vật lí 10}
 \graphicspath{{figs/}{extra/}} % các thư mục chứa hình ảnh 
-
 % ========== PAPER FORMAT ====================
 % --- paper size 
 \geometry{
@@ -140,6 +139,7 @@
 	\renewcommand{\thesection}{\Roman{section}}
 	\titleformat{\section}
 	{\normalfont\bfseries}{PHẦN~\thesection.}{0.4em}{}
+	\titlespacing{\section}{0pt}{*0}{*0.5}
 	\newcolumntype{C}[1]{>{\centering\arraybackslash}p{#1}}
 	\newcolumntype{M}[1]{>{\centering\arraybackslash}m{#1}}
 	\newcolumntype{L}[1]{>{\raggedright\arraybackslash}p{#1}}
@@ -148,11 +148,7 @@
 		\normalfont\bfseries
 	}
 	
-	%\newcommand{\hoac}[1]{ %hệ hoặc
-		%	\left[\begin{aligned}#1\end{aligned}\right.}
-	%\newcommand{\heva}[1]{ %hệ và
-		%	\left\{\begin{aligned}#1\end{aligned}\right.}
-	% ====================================================== input data BT1+2
+% ====================================================== input data BT1+2
 	%\input{data/G12-C1}
 	%\newpage\input{data/G12-C1-DA}
 	% ====================================================== input data BT1+2
@@ -177,7 +173,7 @@
 % =============== ÔN TẬP KIỂM TRA THƯỜNG XUYÊN 2
 \input{data/D10-HKI-KTTX2-001}\newpage
 \input{data/D10-HKI-KTTX2-002}
-\newpage\input{data/D10-HKI-KTTX2-001-DA}
-\newpage\input{data/D10-HKI-KTTX2-002-DA}
+%\newpage\input{data/D10-HKI-KTTX2-001-DA}
+%\newpage\input{data/D10-HKI-KTTX2-002-DA}
 	
 \end{document}
