@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.9.6)  4 NOV 2024 16:36
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.9.6)  3 DEC 2024 19:38
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1713,16 +1713,14 @@ Package array Warning: Column M is already defined on input line 144.
 
 Package array Warning: Column L is already defined on input line 145.
 
-(./data/D10-HKI-KTTX2-001.tex
+(./data/D10-CK1-001.tex
 LaTeX Font Info:    Trying to load font information for U+rsfs on input line 2.
 
-
-(c:/texlive/2024/texmf-dist/tex/latex/jknapltx/ursfs.fd
+ (c:/texlive/2024/texmf-dist/tex/latex/jknapltx/ursfs.fd
 File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
 )
 LaTeX Font Info:    Trying to load font information for U+msa on input line 2.
-
-(c:/texlive/2024/texmf-dist/tex/latex/amsfonts/umsa.fd
+ (c:/texlive/2024/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
 LaTeX Font Info:    Trying to load font information for U+msb on input line 2.
@@ -1734,133 +1732,204 @@ Overfull \hbox (17.0716pt too wide) in paragraph at lines 2--9
  [] 
  []
 
-Output from handle ans going to ans/D10-HKI-KTTX2-001-TN.tex
+Output from handle ans going to ans/D10-CK1-001-TN.tex
 \ans@file=\write7
-\openout7 = `ans/D10-HKI-KTTX2-001-TN.tex'.
+\openout7 = `ans/D10-CK1-001-TN.tex'.
 
 [1
 
 {c:/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-<figs/D10-HKI-KTTX2-001-1.jpg, id=16, 1027.84pt x 1027.84pt>
-File: figs/D10-HKI-KTTX2-001-1.jpg Graphic file (type jpg)
-<use figs/D10-HKI-KTTX2-001-1.jpg>
-Package pdftex.def Info: figs/D10-HKI-KTTX2-001-1.jpg  used on input line 110.
-(pdftex.def)             Requested size: 77.08467pt x 77.08467pt.
-File: figs/D10-HKI-KTTX2-001-1.jpg Graphic file (type jpg)
-<use figs/D10-HKI-KTTX2-001-1.jpg>
-Package pdftex.def Info: figs/D10-HKI-KTTX2-001-1.jpg  used on input line 110.
-(pdftex.def)             Requested size: 77.08467pt x 77.08467pt.
- [2 <./figs/D10-HKI-KTTX2-001-1.jpg>]
-Output from handle ans going to ans/D10-HKI-KTTX2-001-TF.tex
-\openout7 = `ans/D10-HKI-KTTX2-001-TF.tex'.
+Output from handle ans going to ans/D10-CK1-001-TF.tex
+\openout7 = `ans/D10-CK1-001-TF.tex'.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 220--225
+Underfull \hbox (badness 10000) in paragraph at lines 286--291
 
  []
 
-<figs/D10-HKI-KTTX2-001-5.jpg, id=21, 490.4724pt x 427.8384pt>
-File: figs/D10-HKI-KTTX2-001-5.jpg Graphic file (type jpg)
-<use figs/D10-HKI-KTTX2-001-5.jpg>
-Package pdftex.def Info: figs/D10-HKI-KTTX2-001-5.jpg  used on input line 229.
-(pdftex.def)             Requested size: 147.14285pt x 128.3525pt.
-File: figs/D10-HKI-KTTX2-001-5.jpg Graphic file (type jpg)
-<use figs/D10-HKI-KTTX2-001-5.jpg>
-Package pdftex.def Info: figs/D10-HKI-KTTX2-001-5.jpg  used on input line 229.
-(pdftex.def)             Requested size: 147.14285pt x 128.3525pt.
-<figs/D10-HKI-KTTX2-001-3.jpg, id=22, 482.2818pt x 368.0952pt>
-File: figs/D10-HKI-KTTX2-001-3.jpg Graphic file (type jpg)
-<use figs/D10-HKI-KTTX2-001-3.jpg>
-Package pdftex.def Info: figs/D10-HKI-KTTX2-001-3.jpg  used on input line 248.
-(pdftex.def)             Requested size: 153.64644pt x 117.27051pt.
-[3 <./figs/D10-HKI-KTTX2-001-5.jpg> <./figs/D10-HKI-KTTX2-001-3.jpg>]
-Output from handle ans going to ans/D10-HKI-KTTX2-001-TL.tex
-\openout7 = `ans/D10-HKI-KTTX2-001-TL.tex'.
+[2]
+<figs/D10-CK1-002-2.jpg, id=20, 274.626pt x 293.4162pt>
+File: figs/D10-CK1-002-2.jpg Graphic file (type jpg)
+<use figs/D10-CK1-002-2.jpg>
+Package pdftex.def Info: figs/D10-CK1-002-2.jpg  used on input line 302.
+(pdftex.def)             Requested size: 96.12053pt x 102.6972pt.
+File: figs/D10-CK1-002-2.jpg Graphic file (type jpg)
+<use figs/D10-CK1-002-2.jpg>
+Package pdftex.def Info: figs/D10-CK1-002-2.jpg  used on input line 302.
+(pdftex.def)             Requested size: 96.12053pt x 102.6972pt.
+<figs/D10-CK1-001-5.jpg, id=21, 1284.8pt x 722.7pt>
+File: figs/D10-CK1-001-5.jpg Graphic file (type jpg)
+<use figs/D10-CK1-001-5.jpg>
+Package pdftex.def Info: figs/D10-CK1-001-5.jpg  used on input line 314.
+(pdftex.def)             Requested size: 102.7861pt x 57.81717pt.
+File: figs/D10-CK1-001-5.jpg Graphic file (type jpg)
+<use figs/D10-CK1-001-5.jpg>
+Package pdftex.def Info: figs/D10-CK1-001-5.jpg  used on input line 314.
+(pdftex.def)             Requested size: 102.7861pt x 57.81717pt.
 
-<figs/../figs/D10-HKI-KTTX2-002-1.jpg, id=27, 374.90062pt x 344.78813pt>
-File: figs/../figs/D10-HKI-KTTX2-002-1.jpg Graphic file (type jpg)
-<use figs/../figs/D10-HKI-KTTX2-002-1.jpg>
-Package pdftex.def Info: figs/../figs/D10-HKI-KTTX2-002-1.jpg  used on input li
-ne 283.
-(pdftex.def)             Requested size: 93.72491pt x 86.19681pt.
-File: figs/../figs/D10-HKI-KTTX2-002-1.jpg Graphic file (type jpg)
-<use figs/../figs/D10-HKI-KTTX2-002-1.jpg>
-Package pdftex.def Info: figs/../figs/D10-HKI-KTTX2-002-1.jpg  used on input li
-ne 283.
-(pdftex.def)             Requested size: 93.72491pt x 86.19681pt.
-<figs/../figs/D10-HKI-KTTX2-001-2.jpg, id=28, 217.2918pt x 236.082pt>
-File: figs/../figs/D10-HKI-KTTX2-001-2.jpg Graphic file (type jpg)
-<use figs/../figs/D10-HKI-KTTX2-001-2.jpg>
-Package pdftex.def Info: figs/../figs/D10-HKI-KTTX2-001-2.jpg  used on input li
-ne 300.
-(pdftex.def)             Requested size: 65.18803pt x 70.82513pt.
-File: figs/../figs/D10-HKI-KTTX2-001-2.jpg Graphic file (type jpg)
-<use figs/../figs/D10-HKI-KTTX2-001-2.jpg>
-Package pdftex.def Info: figs/../figs/D10-HKI-KTTX2-001-2.jpg  used on input li
-ne 300.
-(pdftex.def)             Requested size: 65.18803pt x 70.82513pt.
-) [4 <./figs/../figs/D10-HKI-KTTX2-002-1.jpg> <./figs/../figs/D10-HKI-KTTX2-001
--2.jpg>] (./data/D10-HKI-KTTX2-002.tex
+Missing character: There is no ; in font nullfont!
+Missing character: There is no ; in font nullfont!
+Missing character: There is no ; in font nullfont!
+Missing character: There is no ; in font nullfont!
+[3 <./figs/D10-CK1-002-2.jpg> <./figs/D10-CK1-001-5.jpg>]
+Output from handle ans going to ans/D10-CK1-001-TL.tex
+\openout7 = `ans/D10-CK1-001-TL.tex'.
+
+<figs/D10-CK1-001-3.jpg, id=26, 199.24437pt x 253.94875pt>
+File: figs/D10-CK1-001-3.jpg Graphic file (type jpg)
+<use figs/D10-CK1-001-3.jpg>
+Package pdftex.def Info: figs/D10-CK1-001-3.jpg  used on input line 369.
+(pdftex.def)             Requested size: 79.69633pt x 101.5777pt.
+File: figs/D10-CK1-001-3.jpg Graphic file (type jpg)
+<use figs/D10-CK1-001-3.jpg>
+Package pdftex.def Info: figs/D10-CK1-001-3.jpg  used on input line 369.
+(pdftex.def)             Requested size: 79.69633pt x 101.5777pt.
+<figs/D10-CK1-001-1.jpg, id=27, 106.14656pt x 127.22531pt>
+File: figs/D10-CK1-001-1.jpg Graphic file (type jpg)
+<use figs/D10-CK1-001-1.jpg>
+Package pdftex.def Info: figs/D10-CK1-001-1.jpg  used on input line 379.
+(pdftex.def)             Requested size: 42.45787pt x 50.8892pt.
+File: figs/D10-CK1-001-1.jpg Graphic file (type jpg)
+<use figs/D10-CK1-001-1.jpg>
+Package pdftex.def Info: figs/D10-CK1-001-1.jpg  used on input line 379.
+(pdftex.def)             Requested size: 42.45787pt x 50.8892pt.
+<figs/D10-CK1-001-6.jpg, id=28, 355.82938pt x 215.80624pt>
+File: figs/D10-CK1-001-6.jpg Graphic file (type jpg)
+<use figs/D10-CK1-001-6.jpg>
+Package pdftex.def Info: figs/D10-CK1-001-6.jpg  used on input line 389.
+(pdftex.def)             Requested size: 124.54213pt x 75.53331pt.
+File: figs/D10-CK1-001-6.jpg Graphic file (type jpg)
+<use figs/D10-CK1-001-6.jpg>
+Package pdftex.def Info: figs/D10-CK1-001-6.jpg  used on input line 389.
+(pdftex.def)             Requested size: 124.54213pt x 75.53331pt.
+<figs/D10-CK1-001-2.jpg, id=29, 139.01938pt x 89.33376pt>
+File: figs/D10-CK1-001-2.jpg Graphic file (type jpg)
+<use figs/D10-CK1-001-2.jpg>
+Package pdftex.def Info: figs/D10-CK1-001-2.jpg  used on input line 399.
+(pdftex.def)             Requested size: 111.21564pt x 71.46709pt.
+File: figs/D10-CK1-001-2.jpg Graphic file (type jpg)
+<use figs/D10-CK1-001-2.jpg>
+Package pdftex.def Info: figs/D10-CK1-001-2.jpg  used on input line 399.
+(pdftex.def)             Requested size: 111.21564pt x 71.46709pt.
+) [4 <./figs/D10-CK1-001-3.jpg> <./figs/D10-CK1-001-1.jpg> <./figs/D10-CK1-001-
+6.jpg> <./figs/D10-CK1-001-2.jpg>] (./data/D10-CK1-002.tex
 Overfull \hbox (17.0716pt too wide) in paragraph at lines 2--9
  [] 
  []
 
-Output from handle ans going to ans/D10-HKI-KTTX2-002-TN.tex
-\openout7 = `ans/D10-HKI-KTTX2-002-TN.tex'.
+Output from handle ans going to ans/D10-CK1-002-TN.tex
+\openout7 = `ans/D10-CK1-002-TN.tex'.
 
-[5] [6]
-Output from handle ans going to ans/D10-HKI-KTTX2-002-TF.tex
-\openout7 = `ans/D10-HKI-KTTX2-002-TF.tex'.
+[5]
+Missing character: There is no ; in font nullfont!
+Missing character: There is no ; in font nullfont!
+Missing character: There is no ; in font nullfont!
+Missing character: There is no ; in font nullfont!
+Missing character: There is no ; in font nullfont!
+Missing character: There is no ; in font nullfont!
+Missing character: There is no ; in font nullfont!
+Missing character: There is no ; in font nullfont!
+[6]
+Output from handle ans going to ans/D10-CK1-002-TF.tex
+\openout7 = `ans/D10-CK1-002-TF.tex'.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 223--228
+Underfull \hbox (badness 10000) in paragraph at lines 216--221
 
  []
 
-<figs/D10-HKI-KTTX2-001-4.jpg, id=39, 810.52812pt x 417.05812pt>
-File: figs/D10-HKI-KTTX2-001-4.jpg Graphic file (type jpg)
-<use figs/D10-HKI-KTTX2-001-4.jpg>
-Package pdftex.def Info: figs/D10-HKI-KTTX2-001-4.jpg  used on input line 230.
-(pdftex.def)             Requested size: 204.8567pt x 105.40974pt.
-Output from handle ans going to ans/D10-HKI-KTTX2-002-TL.tex
-\openout7 = `ans/D10-HKI-KTTX2-002-TL.tex'.
+<figs/D10-CK1-002-1.jpg, id=40, 445.665pt x 260.6538pt>
+File: figs/D10-CK1-002-1.jpg Graphic file (type jpg)
+<use figs/D10-CK1-002-1.jpg>
+Package pdftex.def Info: figs/D10-CK1-002-1.jpg  used on input line 252.
+(pdftex.def)             Requested size: 111.41597pt x 65.16328pt.
+File: figs/D10-CK1-002-1.jpg Graphic file (type jpg)
+<use figs/D10-CK1-002-1.jpg>
+Package pdftex.def Info: figs/D10-CK1-002-1.jpg  used on input line 252.
+(pdftex.def)             Requested size: 111.41597pt x 65.16328pt.
+[7 <./figs/D10-CK1-002-1.jpg>]
+Output from handle ans going to ans/D10-CK1-002-TL.tex
+\openout7 = `ans/D10-CK1-002-TL.tex'.
 
-[7 <./figs/D10-HKI-KTTX2-001-4.jpg>]
-Missing character: There is no ; in font nullfont!
-Missing character: There is no ; in font nullfont!
-Missing character: There is no ; in font nullfont!
-Missing character: There is no ; in font nullfont!
+<figs/D10-CK1-002-4.jpg, id=45, 246.9225pt x 298.61563pt>
+File: figs/D10-CK1-002-4.jpg Graphic file (type jpg)
+<use figs/D10-CK1-002-4.jpg>
+Package pdftex.def Info: figs/D10-CK1-002-4.jpg  used on input line 276.
+(pdftex.def)             Requested size: 74.0773pt x 89.58537pt.
+File: figs/D10-CK1-002-4.jpg Graphic file (type jpg)
+<use figs/D10-CK1-002-4.jpg>
+Package pdftex.def Info: figs/D10-CK1-002-4.jpg  used on input line 276.
+(pdftex.def)             Requested size: 74.0773pt x 89.58537pt.
+<figs/D10-CK1-002-3.jpg, id=46, 349.305pt x 315.579pt>
+File: figs/D10-CK1-002-3.jpg Graphic file (type jpg)
+<use figs/D10-CK1-002-3.jpg>
+Package pdftex.def Info: figs/D10-CK1-002-3.jpg  used on input line 286.
+(pdftex.def)             Requested size: 104.7923pt x 94.67442pt.
+File: figs/D10-CK1-002-3.jpg Graphic file (type jpg)
+<use figs/D10-CK1-002-3.jpg>
+Package pdftex.def Info: figs/D10-CK1-002-3.jpg  used on input line 286.
+(pdftex.def)             Requested size: 104.7923pt x 94.67442pt.
+<figs/D10-CK1-001-4.jpg, id=47, 503.38063pt x 170.13562pt>
+File: figs/D10-CK1-001-4.jpg Graphic file (type jpg)
+<use figs/D10-CK1-001-4.jpg>
+Package pdftex.def Info: figs/D10-CK1-001-4.jpg  used on input line 295.
+(pdftex.def)             Requested size: 201.34868pt x 68.05302pt.
+File: figs/D10-CK1-001-4.jpg Graphic file (type jpg)
+<use figs/D10-CK1-001-4.jpg>
+Package pdftex.def Info: figs/D10-CK1-001-4.jpg  used on input line 295.
+(pdftex.def)             Requested size: 201.34868pt x 68.05302pt.
+) [8 <./figs/D10-CK1-002-4.jpg> <./figs/D10-CK1-002-3.jpg> <./figs/D10-CK1-001-
+4.jpg>] (./data/D10-CK1-001-DA.tex
+Overfull \hbox (17.0716pt too wide) in paragraph at lines 2--9
+ [] 
+ []
+
+LaTeX Font Info:    Trying to load font information for T5+qcs on input line 15
+.
+(c:/texlive/2024/texmf-dist/tex/latex/tex-gyre/t5qcs.fd
+File: t5qcs.fd 2009/09/25 v1.2 font definition file for T5/qcs
 )
+(./ans/D10-CK1-001-TN.tex) (./ans/D10-CK1-001-TF.tex) (./ans/D10-CK1-001-TL.tex
+)) [9{c:/texlive/2024/texmf-dist/fonts/enc/dvips/tex-gyre/q-t5.enc}]
+(./data/D10-CK1-002-DA.tex
+Overfull \hbox (17.0716pt too wide) in paragraph at lines 2--9
+ [] 
+ []
+
+(./ans/D10-CK1-002-TN.tex) (./ans/D10-CK1-002-TF.tex) (./ans/D10-CK1-002-TL.tex
+))
 \tf@thm=\write8
 \openout8 = `TEST.thm'.
 
- [8] (./TEST.aux)
+ [10] (./TEST.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2020/03/25>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 45978 strings out of 474116
- 1139432 string characters out of 5747718
- 1955190 words of memory out of 5000000
- 67493 multiletter control sequences out of 15000+600000
- 570717 words of font info for 65 fonts, out of 8000000 for 9000
+ 46604 strings out of 474116
+ 1155297 string characters out of 5747718
+ 1973190 words of memory out of 5000000
+ 68091 multiletter control sequences out of 15000+600000
+ 576047 words of font info for 78 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 117i,20n,141p,1205b,1416s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><c:/tex
-live/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb><c:/texlive/2024/
-texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2024/texmf-dist
-/fonts/type1/public/amsfonts/cm/cmr8.pfb><c:/texlive/2024/texmf-dist/fonts/type
-1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/
-amsfonts/cm/cmsy8.pfb><c:/texlive/2024/texmf-dist/fonts/type1/vntex/vnr/vnbx10.
-pfb><c:/texlive/2024/texmf-dist/fonts/type1/vntex/vnr/vnbxti10.pfb><c:/texlive/
-2024/texmf-dist/fonts/type1/vntex/vnr/vnr10.pfb><c:/texlive/2024/texmf-dist/fon
-ts/type1/vntex/vnr/vnti10.pfb>
-Output written on TEST.pdf (8 pages, 643278 bytes).
+ 117i,17n,141p,1205b,2485s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><c:/tex
+live/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><c:/texlive/2024
+/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb><c:/texlive/2024/texmf-dis
+t/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2024/texmf-dist/fonts/ty
+pe1/public/amsfonts/cm/cmr8.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/
+amsfonts/cm/cmsy10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/
+cm/cmsy8.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/tex-gyre/qcsr.pfb><
+c:/texlive/2024/texmf-dist/fonts/type1/vntex/vnr/vnbx10.pfb><c:/texlive/2024/te
+xmf-dist/fonts/type1/vntex/vnr/vnbx12.pfb><c:/texlive/2024/texmf-dist/fonts/typ
+e1/vntex/vnr/vnbxti10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/vntex/vnr/vnr
+10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/vntex/vnr/vnti10.pfb>
+Output written on TEST.pdf (10 pages, 664389 bytes).
 PDF statistics:
- 92 PDF objects out of 1000 (max. 8388607)
- 54 compressed objects within 1 object stream
+ 116 PDF objects out of 1000 (max. 8388607)
+ 67 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 49 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 63 words of extra memory for PDF output out of 10000 (max. 10000000)
 
