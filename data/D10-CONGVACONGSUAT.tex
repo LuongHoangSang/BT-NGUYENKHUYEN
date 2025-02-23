@@ -203,21 +203,7 @@
 	{\True $\SI{79.4}{\percent}$}
 	\loigiai{}
 \end{ex}
-% ===================================================================
-\begin{ex}
-	Một động cơ có công suất tiêu thụ bằng $\SI{5}{\kilo\watt}$ kéo một vật có trọng lượng $\SI{12}{\kilo\newton}$ lên cao $\SI{30}{\meter}$ theo phương thẳng đứng trong thời gian $\SI{90}{\second}$ với vận tốc không đổi. Hiệu suất của động cơ bằng
-	\choice
-	{$\SI{100}{\percent}$}
-	{\True $\SI{80}{\percent}$}
-	{$\SI{60}{\percent}$}
-	{$\SI{40}{\percent}$}
-	\loigiai{Công cần thiết để kéo vật nặng lên cao $\SI{30}{\meter}$:
-		$$A_i=Ph=\SI{360}{\kilo\joule}$$
-		Công suất có ích để kéo vật:
-		$$\calP_i=\dfrac{A_i}{t}=\SI{40}{\kilo\watt}$$
-		Hiệu suất động cơ:
-		$$H=\dfrac{\calP_i}{\calP_{tp}}\cdot\SI{100}{\percent}=\SI{80}{\percent}.$$}
-\end{ex}
+
 % ===================================================================
 \begin{ex}
 	Một máy bơm nước mỗi giây có thể bơm được 15 lít nước lên bể ở độ cao $\SI{10}{\meter}$. Hiệu suất của máy bơm là 0,7. Lấy $g=\SI{10}{\meter/\second^2}$. Biết khối lượng riêng của nước là  $D=\SI{E3}{\kilogram/\meter^3}$. Sau nửa giờ máy bơm đã thực hiện một công bằng	
@@ -257,18 +243,35 @@
 	{Công của trọng lực tác dụng lên thùng là công phát động}
 	{Công của lực ma sát tác dụng lên thùng trên đoạn AM có giá trị lớn hơn trên đoạn AB}
 	{Công của phản lực bằng công của trọng lực}
-	{Độ lớn công của lực kéo bằng tổng độ lớn công của trọng lực và độ lớn công của lực ma sát}
-	\loigiai{}
+	{\True Độ lớn công của lực kéo bằng tổng độ lớn công của trọng lực và độ lớn công của lực ma sát}
+	\loigiai{
+	\begin{itemchoice}
+		\itemch Sai. Trọng lực sinh công âm.
+		\itemch Sai. $\mathrm{AM}=\mathrm{MB}$ nên công lực ma sát trên 2 đoạn là như nhau.
+		\itemch Sai. Phản lực $\vec{N}$ vuông góc hướng chuyển động nên không sinh công.
+		\itemch Đúng. Áp dụng định lý động năng, do vật chuyển động với tốc độ không đổi nên $\sum A=0\Rightarrow A_F=-A_{F_{\mathrm{ms}}}-A_P$. Lực kéo sinh công dương, lực ma sát và trọng lực sinh công âm nên  độ lớn công của lực kéo bằng tổng độ lớn công trọng lực và độ lớn công lực ma sát.
+	\end{itemchoice}
+	}
 \end{ex}
 % ===================================================================
 \begin{ex}
-	Một ô tô có khối lượng 1 tấn và công suất của động cơ là $\SI{5}{\kilo\watt}$. Giai đoạn đầu, ô tô chuyển động thẳng đều trên mặt đường nằm ngang với tốc độ $\SI{36}{\kilo\meter/\hour}$. Giai đoạn sau, ô tô tăng tốc chuyển động nhanh dần đều và sau khi đi thêm được $\SI{125}{\meter}$ thì đạt tốc độ $\SI{54}{\kilo\meter/\hour}$. Biết độ lớn lực ma sát không đổi trong suốt quá trình ô tô chuyển động.
+	Một ô tô có khối lượng 1 tấn đang chuyển động trên đường. Giai đoạn đầu, ô tô chuyển động thẳng đều trên mặt đường nằm ngang với tốc độ $\SI{36}{\kilo\meter/\hour}$ với công suất trung bình của động cơ là \SI{5}{\kilo\watt}. Giai đoạn sau, ô tô tăng tốc chuyển động nhanh dần đều và sau khi đi thêm được $\SI{125}{\meter}$ thì đạt tốc độ $\SI{54}{\kilo\meter/\hour}$. Biết độ lớn lực ma sát không đổi trong suốt quá trình ô tô chuyển động.
 	\choiceTF[t]
 	{\True Giai đoạn đầu, lực ma sát của mặt đường tác dụng lên ô tô là $\SI{500}{\newton}$}
 	{\True Gia tốc của ô tô trong giai đoạn chuyển động nhanh dần đều là $\SI{0.5}{\meter/\second^2}$}
 	{\True Khi ô tô chuyển động nhanh dần đều thì lực kéo của động cơ bằng $\SI{1000}{\newton}$}
 	{\True Giai đoạn sau, công suất trung bình của động cơ ô tô sau khi đi thêm $\SI{125}{\meter}$ là $\SI{12.5}{\kilo\watt}$}
-	\loigiai{}
+	\loigiai{
+	\begin{itemchoice}
+		\itemch Đúng.\\ 
+		Lực kéo của động cơ trong giai đoạn đầu:
+		$F_k=\dfrac{\calP}{v_0}=\SI{500}{\newton}$.\\
+		Vì ô tô chuyển động thẳng đều nên $F_{\mathrm{ms}}=F_k=\SI{500}{\newton}$.
+		\itemch Đúng. $a=\dfrac{v^2-v^2_0}{2s}=\SI{0.5}{\meter/\second^2}$.
+		\itemch Đúng. $F'_k=F_{\mathrm{ms}}+ma=\SI{1000}{\newton}$.
+		\itemch Đúng. $\calP_{\mathrm{tb}}=F'_kv_{\mathrm{tb}}=F'_k\cdot\left(\dfrac{v+v_0}{2}\right)=\SI{12.5}{\kilo\watt}$.
+	\end{itemchoice}
+	}
 \end{ex}
 \section{TỰ LUẬN}
 \setcounter{ex}{0}
@@ -276,7 +279,7 @@
 % ======================================================================
 \begin{ex}
 	Mỗi tế bào cơ trong cơ thể người có thể coi như một động cơ siêu nhỏ, khi con người hoạt động, tế bào cơ sử dụng năng lượng hoá học để thực hiện công. Trong mỗi nhịp hoạt động, tế bào cơ có thể sinh một lực $\SI{1.5E-12}{\newton}$ để dịch chuyển $\SI{8}{\nano\meter}$. Tính công mà tế bào cơ sinh ra trong mỗi nhịp hoạt động.	
-	\loigiai{$A=\SI{1.2E-20}{\joule}$}
+	\loigiai{$A=Fs\cos\SI{0}{\degree}=\SI{1.2E-20}{\joule}$}
 \end{ex}
 % ======================================================================
 \begin{ex}
@@ -309,7 +312,8 @@
 {\includegraphics[scale=1.4]{../figs/VN10-2023-PH-TP024-P-6}}
 	\loigiai{
 		\begin{enumerate}[label=\alph*)]
-			\item $F=(m+m')a=\SI{57.75}{\newton}$.
+			\item $F=(m+m')a=\SI{57.75}{\newton}$\\
+			$A=Fs\cos\SI{0}{\degree}\approx\SI{109.7}{\joule}$.
 			\item $s'=\dfrac{A'}{F}=\SI{2.4}{\meter}$.
 		\end{enumerate}
 	}
@@ -327,11 +331,8 @@
 \begin{ex}
 	Khi đưa một vật lên cao $\SI{2,5}{m}$ bằng mặt phẳng nghiêng, người ta phải thực hiện một công là $\SI{3600}{J}$. Biết hiệu suất của mặt phẳng nghiêng là $\SI{75}{\percent}$. Tính khối lượng của vật đó. Lấy $g = \SI{10}{m/s}^2$.	
 	\loigiai{Ta có:
-		$$H = \dfrac{W_\text{ci}}{W} = \dfrac{Ph}{A}.$$
-		Trọng lượng của vật
-		$$P = \dfrac{HA}{h} = \SI{1080}{N}.$$
-		Khối lượng của vật đó
-		$$m = \dfrac{P}{g} = \SI{10,8}{kg}.$$}
+		$$H = \dfrac{A_\text{i}}{A_{\mathrm{tp}}} = \dfrac{mgh}{A_{\mathrm{tp}}}\Rightarrow m=\SI{10,8}{\kilogram}.$$
+	}
 \end{ex}
 % ======================================================================
 \begin{ex}
