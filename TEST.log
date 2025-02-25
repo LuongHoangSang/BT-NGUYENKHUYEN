@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2025.2.9)  23 FEB 2025 23:12
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2025.2.9)  25 FEB 2025 21:03
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1604,35 +1604,122 @@ x
 2024/04/19 5.10c tkz-obj-eu-show.tex
 ) (c:/texlive/2024/texmf-dist/tex/latex/tkz-euclide/tkz-draw-eu-protractor.tex
 2024/04/19 5.10c tkz-obj-eu-protractor.tex
-))
+)) (c:/texlive/2024/texmf-dist/tex/latex/mnsymbol/MnSymbol.sty
+Package: MnSymbol 2007/01/21 v1.4 support for the MnSymbol font
+
+(c:/texlive/2024/texmf-dist/tex/latex/base/textcomp.sty
+Package: textcomp 2024/04/24 v2.1b Standard LaTeX package
+)
+LaTeX Info: Redefining \dagger on input line 84.
+LaTeX Info: Redefining \ddagger on input line 84.
+LaTeX Info: Redefining \mathparagraph on input line 84.
+LaTeX Info: Redefining \mathsection on input line 84.
+LaTeX Info: Redefining \mathdollar on input line 84.
+LaTeX Info: Redefining \mathsterling on input line 84.
+LaTeX Info: Redefining \yen on input line 84.
+LaTeX Info: Redefining \circledR on input line 84.
+LaTeX Info: Redefining \circledS on input line 84.
+LaTeX Info: Redefining \Re on input line 84.
+LaTeX Info: Redefining \Im on input line 84.
+LaTeX Info: Redefining \dotplus on input line 84.
+LaTeX Info: Redefining \thicksim on input line 84.
+LaTeX Info: Redefining \thickapprox on input line 84.
+LaTeX Info: Redefining \veebar on input line 84.
+LaTeX Info: Redefining \barwedge on input line 84.
+LaTeX Info: Redefining \doublebarwedge on input line 84.
+LaTeX Info: Redefining \centerdot on input line 84.
+LaTeX Info: Redefining \divideontimes on input line 84.
+\symMnSyA=\mathgroup7
+\symMnSyB=\mathgroup8
+\symMnSyC=\mathgroup9
+\symMnSyD=\mathgroup10
+LaTeX Font Info:    Redeclaring symbol font `largesymbols' on input line 119.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/MnSymbolE/m/n on input line 119.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/MnSymbolE/m/n on input line 119.
+LaTeX Font Info:    Redeclaring symbol font `symbols' on input line 120.
+LaTeX Font Info:    Encoding `OMS' has changed to `U' for symbol font
+(Font)              `symbols' in the math version `normal' on input line 120.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> U/MnSymbolF/m/n on input line 120.
+LaTeX Font Info:    Encoding `OMS' has changed to `U' for symbol font
+(Font)              `symbols' in the math version `bold' on input line 120.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> U/MnSymbolF/m/n on input line 120.
+LaTeX Font Info:    Overwriting symbol font `MnSyA' in version `bold'
+(Font)                  U/MnSymbolA/m/n --> U/MnSymbolA/b/n on input line 121.
+LaTeX Font Info:    Overwriting symbol font `MnSyB' in version `bold'
+(Font)                  U/MnSymbolB/m/n --> U/MnSymbolB/b/n on input line 122.
+LaTeX Font Info:    Overwriting symbol font `MnSyC' in version `bold'
+(Font)                  U/MnSymbolC/m/n --> U/MnSymbolC/b/n on input line 123.
+LaTeX Font Info:    Overwriting symbol font `MnSyD' in version `bold'
+(Font)                  U/MnSymbolD/m/n --> U/MnSymbolD/b/n on input line 124.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/MnSymbolE/m/n --> OMX/MnSymbolE/b/n on input line 1
+25.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  U/MnSymbolF/m/n --> U/MnSymbolF/b/n on input line 126.
+LaTeX Font Info:    Redeclaring math alphabet \mathcal on input line 241.
+LaTeX Font Info:    Overwriting math alphabet `\mathcal' in version `bold'
+(Font)                  OMS/MnSymbolS/m/n --> OMS/MnSymbolS/b/n on input line 2
+41.
+LaTeX Info: Redefining \longrightarrow on input line 548.
+LaTeX Info: Redefining \longleftarrow on input line 549.
+LaTeX Info: Redefining \longleftrightarrow on input line 550.
+LaTeX Info: Redefining \Longrightarrow on input line 551.
+LaTeX Info: Redefining \Longleftarrow on input line 552.
+LaTeX Info: Redefining \Longleftrightarrow on input line 553.
+LaTeX Info: Redefining \longmapsto on input line 554.
+LaTeX Info: Redefining \vdots on input line 868.
+LaTeX Font Info:    Redeclaring math symbol \braceld on input line 1721.
+LaTeX Font Info:    Redeclaring math symbol \bracelu on input line 1722.
+LaTeX Font Info:    Redeclaring math symbol \bracerd on input line 1723.
+LaTeX Font Info:    Redeclaring math symbol \braceru on input line 1724.
+LaTeX Info: Redefining \downbracefill on input line 1799.
+LaTeX Info: Redefining \upbracefill on input line 1800.
+LaTeX Info: Redefining \overbrace on input line 1819.
+LaTeX Info: Redefining \underbrace on input line 1820.
+LaTeX Info: Redefining \surd on input line 1843.
+LaTeX Font Info:    Redeclaring math accent \widehat on input line 1845.
+LaTeX Font Info:    Redeclaring math accent \widetilde on input line 1846.
+LaTeX Font Info:    Redeclaring math accent \vec on input line 1848.
+)
+(c:/texlive/2024/texmf-dist/tex/latex/wasysym/wasysym.sty
+Package: wasysym 2020/01/19 v2.4 Wasy-2 symbol support package
+\symwasy=\mathgroup11
+LaTeX Font Info:    Overwriting symbol font `wasy' in version `bold'
+(Font)                  U/wasy/m/n --> U/wasy/b/n on input line 93.
+LaTeX Font Info:    Redeclaring math symbol \invneg on input line 242.
+)
 
 Package geometry Warning: Over-specification in `v'-direction.
     `height' (739.77165pt) is ignored.
 
 LaTeX Font Info:    Overwriting math alphabet `\bdx' in version `bold'
 (Font)                  U/BOONDOX-cal/m/n --> U/BOONDOX-cal/b/n on input line 1
-27.
+28.
 Package translations Info: No language package found. I am going to use `englis
-h' as default language. on input line 139.
+h' as default language. on input line 140.
 (./TEST.aux)
 \openout1 = `TEST.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 139.
-LaTeX Font Info:    ... okay on input line 139.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 139.
-LaTeX Font Info:    ... okay on input line 139.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 139.
-LaTeX Font Info:    ... okay on input line 139.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 139.
-LaTeX Font Info:    ... okay on input line 139.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 139.
-LaTeX Font Info:    ... okay on input line 139.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 139.
-LaTeX Font Info:    ... okay on input line 139.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 139.
-LaTeX Font Info:    ... okay on input line 139.
-LaTeX Font Info:    Checking defaults for T5/cmr/m/n on input line 139.
-LaTeX Font Info:    ... okay on input line 139.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 140.
+LaTeX Font Info:    ... okay on input line 140.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 140.
+LaTeX Font Info:    ... okay on input line 140.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 140.
+LaTeX Font Info:    ... okay on input line 140.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 140.
+LaTeX Font Info:    ... okay on input line 140.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 140.
+LaTeX Font Info:    ... okay on input line 140.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 140.
+LaTeX Font Info:    ... okay on input line 140.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 140.
+LaTeX Font Info:    ... okay on input line 140.
+LaTeX Font Info:    Checking defaults for T5/cmr/m/n on input line 140.
+LaTeX Font Info:    ... okay on input line 140.
  (c:/texlive/2024/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count449
@@ -1664,11 +1751,11 @@ e
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: twoside 
 * h-part:(L,W,R)=(42.67912pt, 512.1496pt, 42.67915pt)
-* v-part:(T,H,B)=(28.45274pt, 759.6886pt, 56.9055pt)
+* v-part:(T,H,B)=(28.45274pt, 753.99805pt, 62.59605pt)
 * \paperwidth=597.50787pt
 * \paperheight=845.04684pt
 * \textwidth=512.1496pt
-* \textheight=759.6886pt
+* \textheight=753.99805pt
 * \oddsidemargin=-29.59087pt
 * \evensidemargin=-29.59084pt
 * \topmargin=-80.81725pt
@@ -1696,25 +1783,25 @@ File: translations-basic-dictionary-english.trsl (english translation file `tra
 nslations-basic-dictionary')
 )
 Package translations Info: loading dictionary `translations-basic-dictionary' f
-or `english'. on input line 139.
+or `english'. on input line 140.
 
-Package chemgreek Info: Activating mapping `default' on line 139.
+Package chemgreek Info: Activating mapping `default' on line 140.
 
 
 
 Package pgfplots Warning: running in backwards compatibility mode (unsuitable t
 ick labels; missing features). Consider writing \pgfplotsset{compat=1.18} into 
 your preamble.
- on input line 139.
+ on input line 140.
 
 
-Package array Warning: Column C is already defined on input line 144.
+Package array Warning: Column C is already defined on input line 145.
 
 
-Package array Warning: Column M is already defined on input line 145.
+Package array Warning: Column M is already defined on input line 146.
 
 
-Package array Warning: Column L is already defined on input line 146.
+Package array Warning: Column L is already defined on input line 147.
 
 (./data/D10-KTTX2-HK2.tex
 LaTeX Font Info:    Trying to load font information for U+rsfs on input line 2.
@@ -1733,6 +1820,12 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line 2.
 (c:/texlive/2024/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
+LaTeX Font Info:    Trying to load font information for U+wasy on input line 2.
+
+
+(c:/texlive/2024/texmf-dist/tex/latex/wasysym/uwasy.fd
+File: uwasy.fd 2020/01/19 v2.4 Wasy-2 symbol font definitions
+)
 Overfull \hbox (17.0716pt too wide) in paragraph at lines 2--9
  [] 
  []
@@ -1741,73 +1834,148 @@ Output from handle ans going to ans/D10-KTTX2-HK2-TN.tex
 \ans@file=\write7
 \openout7 = `ans/D10-KTTX2-HK2-TN.tex'.
 
-Output from handle ans going to ans/D10-KTTX2-HK2-TF.tex
-\openout7 = `ans/D10-KTTX2-HK2-TF.tex'.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 115--120
-
- []
-
 
 
 [1
 
-{c:/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-<figs/../figs/D10-KTTX2-HK2-1.jpg, id=18, 723.6636pt x 277.5168pt>
+{c:/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{c:/texlive/2024/
+texmf-dist/fonts/enc/dvips/mnsymbol/MnSymbolD.enc}{c:/texlive/2024/texmf-dist/f
+onts/enc/dvips/mnsymbol/MnSymbolE.enc}{c:/texlive/2024/texmf-dist/fonts/enc/dvi
+ps/mnsymbol/MnSymbolC.enc}]
+Output from handle ans going to ans/D10-KTTX2-HK2-TF.tex
+\openout7 = `ans/D10-KTTX2-HK2-TF.tex'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 145--150
+
+ []
+
+<figs/../figs/D10-KTTX2-HK2-1.jpg, id=19, 723.6636pt x 277.5168pt>
 File: figs/../figs/D10-KTTX2-HK2-1.jpg Graphic file (type jpg)
 <use figs/../figs/D10-KTTX2-HK2-1.jpg>
 Package pdftex.def Info: figs/../figs/D10-KTTX2-HK2-1.jpg  used on input line 1
-32.
+62.
 (pdftex.def)             Requested size: 325.64561pt x 124.8814pt.
-<figs/../figs/D10-KTTX2-HK2-2.jpg, id=19, 154.07562pt x 301.125pt>
+<figs/../figs/D10-KTTX2-HK2-2.jpg, id=20, 154.07562pt x 301.125pt>
 File: figs/../figs/D10-KTTX2-HK2-2.jpg Graphic file (type jpg)
 <use figs/../figs/D10-KTTX2-HK2-2.jpg>
 Package pdftex.def Info: figs/../figs/D10-KTTX2-HK2-2.jpg  used on input line 1
-50.
+80.
 (pdftex.def)             Requested size: 77.03761pt x 150.56212pt.
 File: figs/../figs/D10-KTTX2-HK2-2.jpg Graphic file (type jpg)
 <use figs/../figs/D10-KTTX2-HK2-2.jpg>
 Package pdftex.def Info: figs/../figs/D10-KTTX2-HK2-2.jpg  used on input line 1
-50.
+80.
 (pdftex.def)             Requested size: 77.03761pt x 150.56212pt.
+<figs/../figs/D10-KTTX2-HK2-3.jpg, id=21, 759.3168pt x 312.6882pt>
+File: figs/../figs/D10-KTTX2-HK2-3.jpg Graphic file (type jpg)
+<use figs/../figs/D10-KTTX2-HK2-3.jpg>
+Package pdftex.def Info: figs/../figs/D10-KTTX2-HK2-3.jpg  used on input line 1
+87.
+(pdftex.def)             Requested size: 265.76486pt x 109.4425pt.
+File: figs/../figs/D10-KTTX2-HK2-3.jpg Graphic file (type jpg)
+<use figs/../figs/D10-KTTX2-HK2-3.jpg>
+Package pdftex.def Info: figs/../figs/D10-KTTX2-HK2-3.jpg  used on input line 1
+87.
+(pdftex.def)             Requested size: 265.76486pt x 109.4425pt.
 
+Underfull \vbox (badness 3849) has occurred while \output is active []
+
+
+
+[2 <./figs/../figs/D10-KTTX2-HK2-1.jpg> <./figs/../figs/D10-KTTX2-HK2-2.jpg>]
 Output from handle ans going to ans/D10-KTTX2-HK2-TL.tex
 \openout7 = `ans/D10-KTTX2-HK2-TL.tex'.
 
+<figs/../figs/D10-KTTX2-HK2-4.jpg, id=26, 416.757pt x 155.1396pt>
+File: figs/../figs/D10-KTTX2-HK2-4.jpg Graphic file (type jpg)
+<use figs/../figs/D10-KTTX2-HK2-4.jpg>
+Package pdftex.def Info: figs/../figs/D10-KTTX2-HK2-4.jpg  used on input line 2
+38.
+(pdftex.def)             Requested size: 166.69984pt x 62.05473pt.
+File: figs/../figs/D10-KTTX2-HK2-4.jpg Graphic file (type jpg)
+<use figs/../figs/D10-KTTX2-HK2-4.jpg>
+Package pdftex.def Info: figs/../figs/D10-KTTX2-HK2-4.jpg  used on input line 2
+38.
+(pdftex.def)             Requested size: 166.69984pt x 62.05473pt.
+
+
+[3 <./figs/../figs/D10-KTTX2-HK2-3.jpg> <./figs/../figs/D10-KTTX2-HK2-4.jpg>]
+
+LaTeX Font Warning: Font shape `U/wasy/bx/n' in size <17.28> not available
+(Font)              Font shape `U/wasy/b/n' tried instead on input line 249.
+
+Output from handle ans going to ans/D10-KTTX2-HK2-BS.tex
+\openout7 = `ans/D10-KTTX2-HK2-BS.tex'.
+
+<figs/../figs/D10-KTTX2-HK2-5.jpg, id=30, 328.72812pt x 245.91875pt>
+File: figs/../figs/D10-KTTX2-HK2-5.jpg Graphic file (type jpg)
+<use figs/../figs/D10-KTTX2-HK2-5.jpg>
+Package pdftex.def Info: figs/../figs/D10-KTTX2-HK2-5.jpg  used on input line 2
+79.
+(pdftex.def)             Requested size: 164.36365pt x 122.95906pt.
+File: figs/../figs/D10-KTTX2-HK2-5.jpg Graphic file (type jpg)
+<use figs/../figs/D10-KTTX2-HK2-5.jpg>
+Package pdftex.def Info: figs/../figs/D10-KTTX2-HK2-5.jpg  used on input line 2
+79.
+(pdftex.def)             Requested size: 164.36365pt x 122.95906pt.
+)
+Output from handle ans going to ans.tex
+File ans already open
+
+
+[4 <./figs/../figs/D10-KTTX2-HK2-5.jpg>] (./data/D10-KTTX2-HK2-DA.tex
+Overfull \hbox (17.0716pt too wide) in paragraph at lines 2--9
+ [] 
+ []
+
+LaTeX Font Info:    Trying to load font information for T5+qcs on input line 15
+.
+(c:/texlive/2024/texmf-dist/tex/latex/tex-gyre/t5qcs.fd
+File: t5qcs.fd 2009/09/25 v1.2 font definition file for T5/qcs
+)
+(./ans/D10-KTTX2-HK2-TN.tex) (./ans/D10-KTTX2-HK2-TF.tex)
+LaTeX Font Info:    Font shape `U/BOONDOX-cal/m/n' will be
+(Font)              scaled to size 11.49753pt on input line 36.
+LaTeX Font Info:    Font shape `U/BOONDOX-cal/m/n' will be
+(Font)              scaled to size 8.40002pt on input line 36.
+LaTeX Font Info:    Font shape `U/BOONDOX-cal/m/n' will be
+(Font)              scaled to size 6.30002pt on input line 36.
 )
 \tf@thm=\write8
 \openout8 = `TEST.thm'.
 
 
 
-[2 <./figs/../figs/D10-KTTX2-HK2-1.jpg> <./figs/../figs/D10-KTTX2-HK2-2.jpg>]
-(./TEST.aux)
+[5{c:/texlive/2024/texmf-dist/fonts/enc/dvips/tex-gyre/q-t5.enc}] (./TEST.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2020/03/25>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 45677 strings out of 473201
- 1130945 string characters out of 5720300
- 1679966 words of memory out of 5000000
- 68091 multiletter control sequences out of 15000+600000
- 569540 words of font info for 63 fonts, out of 8000000 for 9000
+ 48352 strings out of 473201
+ 1167271 string characters out of 5720300
+ 1689547 words of memory out of 5000000
+ 70694 multiletter control sequences out of 15000+600000
+ 589872 words of font info for 119 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 117i,17n,121p,1205b,1172s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><c:/tex
-live/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2024/
-texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><c:/texlive/2024/texmf-dist/
-fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2024/texmf-dist/fonts/typ
-e1/public/amsfonts/cm/cmsy8.pfb><c:/texlive/2024/texmf-dist/fonts/type1/vntex/v
-nr/vnbx10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/vntex/vnr/vnbxti10.pfb><c
-:/texlive/2024/texmf-dist/fonts/type1/vntex/vnr/vnr10.pfb><c:/texlive/2024/texm
-f-dist/fonts/type1/vntex/vnr/vnti10.pfb>
-Output written on TEST.pdf (2 pages, 259285 bytes).
+ 117i,17n,121p,1180b,1210s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<c:/texlive/2024/texmf-dist/fonts/type1/public/mnsymbol/MnSymbol10.pfb><c:/te
+xlive/2024/texmf-dist/fonts/type1/public/mnsymbol/MnSymbol8.pfb><c:/texlive/202
+4/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><c:/texlive/2024/texmf-d
+ist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2024/texmf-dist/fonts/
+type1/public/amsfonts/cm/cmr8.pfb><c:/texlive/2024/texmf-dist/fonts/type1/publi
+c/tex-gyre/qcsr.pfb><c:/texlive/2024/texmf-dist/fonts/type1/vntex/vnr/vnbx10.pf
+b><c:/texlive/2024/texmf-dist/fonts/type1/vntex/vnr/vnbx12.pfb><c:/texlive/2024
+/texmf-dist/fonts/type1/vntex/vnr/vnbxti10.pfb><c:/texlive/2024/texmf-dist/font
+s/type1/vntex/vnr/vnr10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/vntex/vnr/v
+nti10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/wasy-type1/wasyb10.pfb
+><c:/texlive/2024/texmf-dist/fonts/type1/public/boondox/zxxrw8a.pfb>
+Output written on TEST.pdf (5 pages, 440695 bytes).
 PDF statistics:
- 61 PDF objects out of 1000 (max. 8388607)
- 36 compressed objects within 1 object stream
+ 103 PDF objects out of 1000 (max. 8388607)
+ 62 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 23 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 38 words of extra memory for PDF output out of 10000 (max. 10000000)
 
