@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2025.2.9)  25 FEB 2025 21:03
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2025.2.9)  11 MAR 2025 22:12
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1803,7 +1803,7 @@ Package array Warning: Column M is already defined on input line 146.
 
 Package array Warning: Column L is already defined on input line 147.
 
-(./data/D10-KTTX2-HK2.tex
+(./data/D10-GK-HK2-003.tex
 LaTeX Font Info:    Trying to load font information for U+rsfs on input line 2.
 
 
@@ -1830,152 +1830,198 @@ Overfull \hbox (17.0716pt too wide) in paragraph at lines 2--9
  [] 
  []
 
-Output from handle ans going to ans/D10-KTTX2-HK2-TN.tex
+Output from handle ans going to ans/D10-GK-HK2-003-TN.tex
 \ans@file=\write7
-\openout7 = `ans/D10-KTTX2-HK2-TN.tex'.
+\openout7 = `ans/D10-GK-HK2-003-TN.tex'.
+
+
+Overfull \hbox (1.4772pt too wide) in paragraph at lines 22--22
+[][] 
+ []
+
+
+Overfull \hbox (1.4772pt too wide) in paragraph at lines 32--32
+[][] 
+ []
+
+
+Overfull \hbox (1.90292pt too wide) in paragraph at lines 42--42
+[][] 
+ []
+
+
+Overfull \hbox (1.4772pt too wide) in paragraph at lines 52--52
+[][] 
+ []
+
+
+Overfull \hbox (1.4772pt too wide) in paragraph at lines 61--61
+[][] 
+ []
+
+
+Overfull \hbox (1.34036pt too wide) in paragraph at lines 71--71
+[][] 
+ []
 
 
 
 [1
 
 {c:/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{c:/texlive/2024/
-texmf-dist/fonts/enc/dvips/mnsymbol/MnSymbolD.enc}{c:/texlive/2024/texmf-dist/f
-onts/enc/dvips/mnsymbol/MnSymbolE.enc}{c:/texlive/2024/texmf-dist/fonts/enc/dvi
-ps/mnsymbol/MnSymbolC.enc}]
-Output from handle ans going to ans/D10-KTTX2-HK2-TF.tex
-\openout7 = `ans/D10-KTTX2-HK2-TF.tex'.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 145--150
-
+texmf-dist/fonts/enc/dvips/mnsymbol/MnSymbolC.enc}]
+Overfull \hbox (2.03976pt too wide) in paragraph at lines 81--81
+[][] 
  []
 
-<figs/../figs/D10-KTTX2-HK2-1.jpg, id=19, 723.6636pt x 277.5168pt>
-File: figs/../figs/D10-KTTX2-HK2-1.jpg Graphic file (type jpg)
-<use figs/../figs/D10-KTTX2-HK2-1.jpg>
-Package pdftex.def Info: figs/../figs/D10-KTTX2-HK2-1.jpg  used on input line 1
-62.
-(pdftex.def)             Requested size: 325.64561pt x 124.8814pt.
-<figs/../figs/D10-KTTX2-HK2-2.jpg, id=20, 154.07562pt x 301.125pt>
-File: figs/../figs/D10-KTTX2-HK2-2.jpg Graphic file (type jpg)
-<use figs/../figs/D10-KTTX2-HK2-2.jpg>
-Package pdftex.def Info: figs/../figs/D10-KTTX2-HK2-2.jpg  used on input line 1
-80.
-(pdftex.def)             Requested size: 77.03761pt x 150.56212pt.
-File: figs/../figs/D10-KTTX2-HK2-2.jpg Graphic file (type jpg)
-<use figs/../figs/D10-KTTX2-HK2-2.jpg>
-Package pdftex.def Info: figs/../figs/D10-KTTX2-HK2-2.jpg  used on input line 1
-80.
-(pdftex.def)             Requested size: 77.03761pt x 150.56212pt.
-<figs/../figs/D10-KTTX2-HK2-3.jpg, id=21, 759.3168pt x 312.6882pt>
-File: figs/../figs/D10-KTTX2-HK2-3.jpg Graphic file (type jpg)
-<use figs/../figs/D10-KTTX2-HK2-3.jpg>
-Package pdftex.def Info: figs/../figs/D10-KTTX2-HK2-3.jpg  used on input line 1
-87.
-(pdftex.def)             Requested size: 265.76486pt x 109.4425pt.
-File: figs/../figs/D10-KTTX2-HK2-3.jpg Graphic file (type jpg)
-<use figs/../figs/D10-KTTX2-HK2-3.jpg>
-Package pdftex.def Info: figs/../figs/D10-KTTX2-HK2-3.jpg  used on input line 1
-87.
-(pdftex.def)             Requested size: 265.76486pt x 109.4425pt.
+<figs/../figs/LTTHPT-TOPIC3-1.jpg, id=13, 363.3575pt x 236.885pt>
+File: figs/../figs/LTTHPT-TOPIC3-1.jpg Graphic file (type jpg)
+<use figs/../figs/LTTHPT-TOPIC3-1.jpg>
+Package pdftex.def Info: figs/../figs/LTTHPT-TOPIC3-1.jpg  used on input line 9
+1.
+(pdftex.def)             Requested size: 109.00809pt x 71.06604pt.
 
-Underfull \vbox (badness 3849) has occurred while \output is active []
+Overfull \hbox (1.34036pt too wide) in paragraph at lines 91--91
+[][] 
+ []
 
+File: figs/../figs/LTTHPT-TOPIC3-1.jpg Graphic file (type jpg)
+<use figs/../figs/LTTHPT-TOPIC3-1.jpg>
+Package pdftex.def Info: figs/../figs/LTTHPT-TOPIC3-1.jpg  used on input line 9
+1.
+(pdftex.def)             Requested size: 109.00809pt x 71.06604pt.
 
+Overfull \hbox (1.34036pt too wide) in paragraph at lines 101--101
+[][] 
+ []
 
-[2 <./figs/../figs/D10-KTTX2-HK2-1.jpg> <./figs/../figs/D10-KTTX2-HK2-2.jpg>]
-Output from handle ans going to ans/D10-KTTX2-HK2-TL.tex
-\openout7 = `ans/D10-KTTX2-HK2-TL.tex'.
+<figs/../figs/LTTHPT-TOPIC3-4.jpg, id=14, 464.73625pt x 195.73125pt>
+File: figs/../figs/LTTHPT-TOPIC3-4.jpg Graphic file (type jpg)
+<use figs/../figs/LTTHPT-TOPIC3-4.jpg>
+Package pdftex.def Info: figs/../figs/LTTHPT-TOPIC3-4.jpg  used on input line 1
+13.
+(pdftex.def)             Requested size: 139.42194pt x 58.71982pt.
 
-<figs/../figs/D10-KTTX2-HK2-4.jpg, id=26, 416.757pt x 155.1396pt>
-File: figs/../figs/D10-KTTX2-HK2-4.jpg Graphic file (type jpg)
-<use figs/../figs/D10-KTTX2-HK2-4.jpg>
-Package pdftex.def Info: figs/../figs/D10-KTTX2-HK2-4.jpg  used on input line 2
-38.
-(pdftex.def)             Requested size: 166.69984pt x 62.05473pt.
-File: figs/../figs/D10-KTTX2-HK2-4.jpg Graphic file (type jpg)
-<use figs/../figs/D10-KTTX2-HK2-4.jpg>
-Package pdftex.def Info: figs/../figs/D10-KTTX2-HK2-4.jpg  used on input line 2
-38.
-(pdftex.def)             Requested size: 166.69984pt x 62.05473pt.
+Overfull \hbox (2.03976pt too wide) in paragraph at lines 113--113
+[][] 
+ []
 
+File: figs/../figs/LTTHPT-TOPIC3-4.jpg Graphic file (type jpg)
+<use figs/../figs/LTTHPT-TOPIC3-4.jpg>
+Package pdftex.def Info: figs/../figs/LTTHPT-TOPIC3-4.jpg  used on input line 1
+13.
+(pdftex.def)             Requested size: 139.42194pt x 58.71982pt.
 
-[3 <./figs/../figs/D10-KTTX2-HK2-3.jpg> <./figs/../figs/D10-KTTX2-HK2-4.jpg>]
+Overfull \hbox (1.90292pt too wide) in paragraph at lines 127--127
+[][] 
+ []
+
 
 LaTeX Font Warning: Font shape `U/wasy/bx/n' in size <17.28> not available
-(Font)              Font shape `U/wasy/b/n' tried instead on input line 249.
-
-Output from handle ans going to ans/D10-KTTX2-HK2-BS.tex
-\openout7 = `ans/D10-KTTX2-HK2-BS.tex'.
-
-<figs/../figs/D10-KTTX2-HK2-5.jpg, id=30, 328.72812pt x 245.91875pt>
-File: figs/../figs/D10-KTTX2-HK2-5.jpg Graphic file (type jpg)
-<use figs/../figs/D10-KTTX2-HK2-5.jpg>
-Package pdftex.def Info: figs/../figs/D10-KTTX2-HK2-5.jpg  used on input line 2
-79.
-(pdftex.def)             Requested size: 164.36365pt x 122.95906pt.
-File: figs/../figs/D10-KTTX2-HK2-5.jpg Graphic file (type jpg)
-<use figs/../figs/D10-KTTX2-HK2-5.jpg>
-Package pdftex.def Info: figs/../figs/D10-KTTX2-HK2-5.jpg  used on input line 2
-79.
-(pdftex.def)             Requested size: 164.36365pt x 122.95906pt.
-)
-Output from handle ans going to ans.tex
-File ans already open
+(Font)              Font shape `U/wasy/b/n' tried instead on input line 137.
 
 
-[4 <./figs/../figs/D10-KTTX2-HK2-5.jpg>] (./data/D10-KTTX2-HK2-DA.tex
-Overfull \hbox (17.0716pt too wide) in paragraph at lines 2--9
- [] 
+
+[2{c:/texlive/2024/texmf-dist/fonts/enc/dvips/mnsymbol/MnSymbolD.enc}{c:/texliv
+e/2024/texmf-dist/fonts/enc/dvips/mnsymbol/MnSymbolE.enc}{c:/texlive/2024/texmf
+-dist/fonts/enc/dvips/mnsymbol/MnSymbolA.enc} <./figs/../figs/LTTHPT-TOPIC3-1.j
+pg> <./figs/../figs/LTTHPT-TOPIC3-4.jpg>]
+Overfull \hbox (1.34036pt too wide) in paragraph at lines 170--170
+[][] 
  []
 
-LaTeX Font Info:    Trying to load font information for T5+qcs on input line 15
-.
-(c:/texlive/2024/texmf-dist/tex/latex/tex-gyre/t5qcs.fd
-File: t5qcs.fd 2009/09/25 v1.2 font definition file for T5/qcs
-)
-(./ans/D10-KTTX2-HK2-TN.tex) (./ans/D10-KTTX2-HK2-TF.tex)
-LaTeX Font Info:    Font shape `U/BOONDOX-cal/m/n' will be
-(Font)              scaled to size 11.49753pt on input line 36.
-LaTeX Font Info:    Font shape `U/BOONDOX-cal/m/n' will be
-(Font)              scaled to size 8.40002pt on input line 36.
-LaTeX Font Info:    Font shape `U/BOONDOX-cal/m/n' will be
-(Font)              scaled to size 6.30002pt on input line 36.
-)
+Output from handle ans going to ans/D10-GK-HK2-003-TF.tex
+\openout7 = `ans/D10-GK-HK2-003-TF.tex'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 178--183
+
+ []
+
+<figs/../figs/LTTHPT-TOPIC3-17.jpg, id=27, 1685.29625pt x 574.145pt>
+File: figs/../figs/LTTHPT-TOPIC3-17.jpg Graphic file (type jpg)
+<use figs/../figs/LTTHPT-TOPIC3-17.jpg>
+Package pdftex.def Info: figs/../figs/LTTHPT-TOPIC3-17.jpg  used on input line 
+220.
+(pdftex.def)             Requested size: 219.0962pt x 74.64146pt.
+File: figs/../figs/LTTHPT-TOPIC3-17.jpg Graphic file (type jpg)
+<use figs/../figs/LTTHPT-TOPIC3-17.jpg>
+Package pdftex.def Info: figs/../figs/LTTHPT-TOPIC3-17.jpg  used on input line 
+220.
+(pdftex.def)             Requested size: 219.0962pt x 74.64146pt.
+
+
+[3]
+<figs/../figs/LTTHPT-TOPIC3-18.jpg, id=35, 1208.515pt x 578.16pt>
+File: figs/../figs/LTTHPT-TOPIC3-18.jpg Graphic file (type jpg)
+<use figs/../figs/LTTHPT-TOPIC3-18.jpg>
+Package pdftex.def Info: figs/../figs/LTTHPT-TOPIC3-18.jpg  used on input line 
+230.
+(pdftex.def)             Requested size: 157.11246pt x 75.16344pt.
+File: figs/../figs/LTTHPT-TOPIC3-18.jpg Graphic file (type jpg)
+<use figs/../figs/LTTHPT-TOPIC3-18.jpg>
+Package pdftex.def Info: figs/../figs/LTTHPT-TOPIC3-18.jpg  used on input line 
+230.
+(pdftex.def)             Requested size: 157.11246pt x 75.16344pt.
+
+Output from handle ans going to ans/D10-GK-HK2-003-TL.tex
+\openout7 = `ans/D10-GK-HK2-003-TL.tex'.
+
+
+Underfull \vbox (badness 1701) has occurred while \output is active []
+
+
+
+[4 <./figs/../figs/LTTHPT-TOPIC3-17.jpg> <./figs/../figs/LTTHPT-TOPIC3-18.jpg>]
+<figs/../figs/LTTHPT-TOPIC3-2.jpg, id=39, 1291.82625pt x 931.48pt>
+File: figs/../figs/LTTHPT-TOPIC3-2.jpg Graphic file (type jpg)
+<use figs/../figs/LTTHPT-TOPIC3-2.jpg>
+Package pdftex.def Info: figs/../figs/LTTHPT-TOPIC3-2.jpg  used on input line 2
+94.
+(pdftex.def)             Requested size: 129.19019pt x 93.15344pt.
+File: figs/../figs/LTTHPT-TOPIC3-2.jpg Graphic file (type jpg)
+<use figs/../figs/LTTHPT-TOPIC3-2.jpg>
+Package pdftex.def Info: figs/../figs/LTTHPT-TOPIC3-2.jpg  used on input line 2
+94.
+(pdftex.def)             Requested size: 129.19019pt x 93.15344pt.
+
+
+[5 <./figs/../figs/LTTHPT-TOPIC3-2.jpg>])
 \tf@thm=\write8
 \openout8 = `TEST.thm'.
 
 
 
-[5{c:/texlive/2024/texmf-dist/fonts/enc/dvips/tex-gyre/q-t5.enc}] (./TEST.aux)
+[6] (./TEST.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2020/03/25>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 48352 strings out of 473201
- 1167271 string characters out of 5720300
- 1689547 words of memory out of 5000000
- 70694 multiletter control sequences out of 15000+600000
- 589872 words of font info for 119 fonts, out of 8000000 for 9000
+ 48678 strings out of 473201
+ 1178045 string characters out of 5720300
+ 1918814 words of memory out of 5000000
+ 71053 multiletter control sequences out of 15000+600000
+ 577461 words of font info for 82 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 117i,17n,121p,1180b,1210s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 117i,17n,121p,1180b,2523s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/texlive/2024/texmf-dist/fonts/type1/public/mnsymbol/MnSymbol10.pfb><c:/te
 xlive/2024/texmf-dist/fonts/type1/public/mnsymbol/MnSymbol8.pfb><c:/texlive/202
 4/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><c:/texlive/2024/texmf-d
-ist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2024/texmf-dist/fonts/
-type1/public/amsfonts/cm/cmr8.pfb><c:/texlive/2024/texmf-dist/fonts/type1/publi
-c/tex-gyre/qcsr.pfb><c:/texlive/2024/texmf-dist/fonts/type1/vntex/vnr/vnbx10.pf
-b><c:/texlive/2024/texmf-dist/fonts/type1/vntex/vnr/vnbx12.pfb><c:/texlive/2024
-/texmf-dist/fonts/type1/vntex/vnr/vnbxti10.pfb><c:/texlive/2024/texmf-dist/font
-s/type1/vntex/vnr/vnr10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/vntex/vnr/v
-nti10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/wasy-type1/wasyb10.pfb
-><c:/texlive/2024/texmf-dist/fonts/type1/public/boondox/zxxrw8a.pfb>
-Output written on TEST.pdf (5 pages, 440695 bytes).
+ist/fonts/type1/public/amsfonts/cm/cmmi6.pfb><c:/texlive/2024/texmf-dist/fonts/
+type1/public/amsfonts/cm/cmmi8.pfb><c:/texlive/2024/texmf-dist/fonts/type1/publ
+ic/amsfonts/cm/cmr10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfont
+s/cm/cmr6.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.p
+fb><c:/texlive/2024/texmf-dist/fonts/type1/vntex/vnr/vnbx10.pfb><c:/texlive/202
+4/texmf-dist/fonts/type1/vntex/vnr/vnbxti10.pfb><c:/texlive/2024/texmf-dist/fon
+ts/type1/vntex/vnr/vnr10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/vntex/vnr/
+vnr8.pfb><c:/texlive/2024/texmf-dist/fonts/type1/vntex/vnr/vnti10.pfb><c:/texli
+ve/2024/texmf-dist/fonts/type1/public/wasy-type1/wasyb10.pfb>
+Output written on TEST.pdf (6 pages, 554265 bytes).
 PDF statistics:
- 103 PDF objects out of 1000 (max. 8388607)
- 62 compressed objects within 1 object stream
+ 114 PDF objects out of 1000 (max. 8388607)
+ 69 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  38 words of extra memory for PDF output out of 10000 (max. 10000000)
 
