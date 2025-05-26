@@ -104,7 +104,10 @@
 	{\SI{10}{\meter}}
 	{\SI{0.5}{\meter}}
 	{\SI{50}{\meter}}
-	\loigiai{}
+	\loigiai{
+	Áp dụng định luật bảo toàn cơ năng:
+	$$mgh_{\max}=\dfrac{1}{2}mv^2_0\Rightarrow h_{\max}=\dfrac{v^2_0}{2g}=\SI{5}{\meter}.$$
+		}
 \end{ex}
 % ===================================================================
 \begin{ex}
@@ -114,7 +117,10 @@
 	{\SI{8.94}{\meter/\second}}
 	{\True \SI{10.84}{\meter/\second}}
 	{\SI{7.7}{\meter/\second}}
-	\loigiai{}
+	\loigiai{
+	Áp dụng định luật bảo toàn cơ năng:
+	$$mgh_{\max}=mgh+\dfrac{1}{2}mv^2\Rightarrow v=\sqrt{2g\left(h_{\max}-h\right)}\approx\SI{10.84}{\meter/\second}.$$
+	}
 \end{ex}
 % ===================================================================
 \begin{ex}
@@ -124,7 +130,9 @@
 	{\SI{21560}{\joule}}
 	{\SI{39710}{\joule}}
 	{\SI{2750}{\joule}}
-	\loigiai{}
+	\loigiai{
+	Áp dụng định lý động năng:
+	$$A=\dfrac{1}{2}mv^2_2-\dfrac{1}{2}mv^2_1=\SI{18150}{\joule}.$$}
 \end{ex}
 % ===================================================================
 \begin{ex}
@@ -135,7 +143,7 @@
 	{$\SI{2401}{\newton}$}
 	{$\SI{6605}{\newton}$}
 	\loigiai{
-		
+		$F=\dfrac{\calP}{v}=\dfrac{175\cdot746}{29}\approx\SI{4502}{\newton}$.
 	}
 \end{ex}
 % ===================================================================
@@ -148,7 +156,8 @@
 		{$\SI{1.61}{\meter / \second}$}}
 	{\vspace{-0.5cm}\includegraphics[scale=0.1]{../figs/LTTHPT-TOPIC3-13}}
 	\loigiai{
-		
+		Áp dụng biến thiên cơ năng:
+		$$mgh_1=\dfrac{1}{2}mv^2_2+\left|F_{\text{ms}}\cdot s\cos\SI{180}{\degree}\right|\Leftrightarrow \left(\SI{3}{\kilogram}\right)\cdot\left(\SI{9.8}{\meter/\second^2}\right)\cdot\left(\SI{0.5}{\meter}\right)=\dfrac{1}{2}\cdot\left(\SI{3}{\kilogram}\right)\cdot v^2_2+\left(\SI{5}{\newton}\right)\cdot\left(\SI{1}{\meter}\right)\Rightarrow v_2\approx\SI{2.54}{\meter/\second}.$$
 	}
 \end{ex}
 \Closesolutionfile{ans}
@@ -218,8 +227,16 @@
 	{\True Tốc độ của bạn học sinh khi vừa bật khỏi đất là \SI{3.2}{\meter/\second}}
 	{Trong quá trình nhảy lên, cơ năng của bạn học sinh tăng dần}
 	{Độ cao cực đại mà bạn học sinh đạt được là $H=\SI{0.13}{\meter}$}
-	{\True Biết rằng cơ bắp con người chỉ có hiệu suất tối đa là \SI{25}{\percent} trong việc tạo ra động năng từ năng lượng hóa học (năng lượng cung cấp từ thực phẩm). Để thực hiện được cú nhảy trên thì nam sinh cần được cung cấp ít nhất \SI{83.2}{cal}}
-	\loigiai{}
+	{Biết rằng cơ bắp con người chỉ có hiệu suất tối đa là \SI{25}{\percent} trong việc tạo ra động năng từ năng lượng hóa học (năng lượng cung cấp từ thực phẩm). Để thực hiện được cú nhảy trên thì nam sinh cần được cung cấp ít nhất \SI{83.2}{cal}}
+	\loigiai{
+	\begin{itemchoice}
+		\itemch Đúng. $v_{\text{tb}}=\dfrac{h}{\Delta t}=\SI{1.6}{\meter/\second}$.\\
+		Học sinh tăng tốc đều trong thời gian nhún chân tạo đà (chuyển động nhanh dần đều) nên $$v_{\text{tb}}=\dfrac{v+v_0}{2}\Rightarrow v=2v_{\text{tb}}=\SI{3.2}{\meter/\second}.$$
+		\itemch Sai. Bỏ qua tác dụng của lực cản và lực ma sát thì cơ năng không đổi.
+		\itemch Sai. Áp dụng định luật bảo toàn cơ năng tại vị trí khi vừa rời khỏi đất và vị trí đạt độ cao cực đại: $$\dfrac{1}{2}mv^2=mgH\Rightarrow H=\dfrac{v^2}{2g}\approx\SI{0.52}{\meter}.$$
+		\itemch Sai. $A_{\text{tp}}=\dfrac{\dfrac{1}{2}mv^2}{H}=\SI{1392.64}{\joule}\approx\SI{333.2}{cal}.$
+	\end{itemchoice}
+	}
 \end{ex}
 \Closesolutionfile{ans}
 \section{Tự luận} 
@@ -229,7 +246,7 @@
 \begin{ex}
 	Thùng hàng có khối lượng $\SI{70}{\kilogram}$ được kéo lên một dốc bằng một sợi cáp chạy bằng động cơ. Nếu thùng hàng này được kéo lên $\SI{60}{\meter}$ trên một dốc nghiêng $\SI{30}{\degree}$ với tốc độ không đổi $\SI{2}{\meter/\second}$ và bỏ qua mọi ma sát thì công suất của động cơ để thực hiện việc này là bao nhiêu mã lực? Lấy $g=\SI{9.8}{\meter/\second^2}$. \textit{(Kết quả làm tròn đến chữ số hàng phần trăm)}.
 	\loigiai{
-		$W=mgsin\theta\cdot d=\SI{20538}{\joule}$\\
+		$W=mg\sin\theta\cdot d=\SI{20538}{\joule}$\\
 		$P_{hp}=\dfrac{W}{t.746}=\SI{0.92}{HP}$.
 	}
 \end{ex}
@@ -242,8 +259,19 @@
 	\end{enumerate}
 	\loigiai{
 	\begin{enumerate}[label=\alph*)]
-		\item $v_c\approx\SI{6.26}{\meter/\second}$.
-		\item $A_{F_{\mathrm{ms}}}=\SI{-16.33}{\joule}$.
+		\item Áp dụng định luật bảo toàn cơ năng tại đỉnh dốc và chân dốc:
+		\begin{eqnarray*}
+			&&mgh_0=\dfrac{1}{2}mv^2_c\\
+			&\Rightarrow&v_c=\sqrt{2gh_0}\approx\SI{6.26}{\meter/\second}
+		\end{eqnarray*}
+		\item $v'_c=\dfrac{2}{3}v_c=$.
+		Áp dụng biến thiên cơ năng:
+		\begin{eqnarray*}
+			&&W_0=W_c+\left|A_{F_{\mathrm{ms}}}\right|\\
+			&\Leftrightarrow& mgh_0=\dfrac{1}{2}mv'^2_c+\left|A_{F_{ms}}\right|\\
+			&\Rightarrow &\left|A_{F_{\mathrm{ms}}}\right|=\SI{16.33}{\joule}\\
+			&\Rightarrow&A_{F_{\mathrm{ms}}}=\SI{-16.33}{\joule}
+		\end{eqnarray*}
 	\end{enumerate}
 	}
 \end{ex}
@@ -256,11 +284,13 @@
 		\item Ở vị trí có góc lệch bao nhiêu so với phương thẳng đứng thì thế năng của vật nặng gấp 2 lần động năng?
 	\end{enumerate}
 	\textit{(Kết quả làm tròn đến chữ số hàng phần mười).}
-	\loigiai{
+	\loigiai{Chọn gốc thế năng tại vị trí thấp thấp của con lắc.
 		\begin{enumerate}[label=\alph*)]
-			\item $W=\SI{16}{\joule}$.
-			\item $v\approx\SI{4.84}{\meter/\second}$.
-			\item $\alpha=\SI{48.2}{\degree}$.
+			\item $W_0=\dfrac{1}{2}mv^2_0=\SI{16}{\joule}$.
+			\item Áp dụng định luật bảo toàn cơ năng tại vị trí đầu và vị trí dây treo lệch góc \SI{30}{\degree} so với phương thẳng đứng:
+			$$W_0=mg\ell\left(1-\cos\alpha\right)+\dfrac{1}{2}mv^2\Rightarrow v\approx\SI{4.84}{\meter/\second}.$$
+			\item Tại vị trí $W_t=2W_{\text{đ}}$ thì $W_t=\dfrac{2}{3}W_0$.\\
+			$$\Rightarrow mg\ell\left(1-\cos\alpha'\right)=\dfrac{2}{3}W_0\Rightarrow \alpha=\SI{48.2}{\degree}.$$
 		\end{enumerate}
 	}
 \end{ex}
